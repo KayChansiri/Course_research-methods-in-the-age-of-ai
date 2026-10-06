@@ -38,9 +38,23 @@ Course materials are released progressively and may be updated as the semester d
 
 -   **Week 6**
 
-    Python Meets Pretrained Language Models
+    Research Questions/Hypothesis, Survey Research
 
     [Session 1 slides](week-0601.pdf)  
+
+
+-   **Week 7**
+
+    Sampling and Measurement (Reliability and Validity)
+
     [Session 2 slides](week-0602.pdf)
+
+-   **Week 8**
+
+    RCTs, A/B Testing, Quasi-Experimental Research
+
+    [Session 1 slides](week-0801.pdf)  
+  
+
 
 </div>
