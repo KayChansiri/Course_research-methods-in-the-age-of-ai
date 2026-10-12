@@ -64,6 +64,26 @@ Use a pretrained language model to support literature screening and compare mode
 
 ---
 
+## Week 9 — Research Design Practice
+
+Week 9 focuses on applying the research design concepts introduced in the previous weeks. Rather than learning a new design, you will work with a small group to build a complete study plan and practice connecting a research question to an appropriate method.
+
+### Day 1 — Research Design Sprint Lab
+
+In this Zoom lab, you will work in a group of three to design a small research study from beginning to end.
+
+Your group will choose one of the following research designs:
+
+- survey;
+- randomized experiment; or
+- quasi-experiment.
+
+You will then develop a research question, identify the population and sample, define the main variables and measures, explain how the study would be conducted, and identify one important limitation or alternative explanation.
+
+The purpose of the lab is to practice making the major parts of a research design fit together logically.
+
+[Open Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
+
 ## How to Use the Codebooks
 
 During class, the codebooks may be used for live demonstrations and guided computational activities.
