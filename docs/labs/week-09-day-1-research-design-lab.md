@@ -6,9 +6,7 @@ title: "Week 9 Day 1: Zoom Research Design Lab"
 
 ## Research Design Sprint
 
-Today’s class is a **20-minute small-group Zoom lab**. You will work in a group of **3 students** to design a small research study from beginning to end.
-
-The goal is not to create a perfect or fully developed study. The goal is to practice making the pieces of a research design **fit together logically**.
+Today’s class is a **20-minute small-group Zoom lab**. You will work in a group of **3** to design a small research study from beginning to end.
 
 By the end of the activity, your group should be able to explain:
 
@@ -233,7 +231,6 @@ Use this structure:
 
 > **We want to know whether/how ____________. We chose a ____________ design because ____________. We would study ____________. Our main predictor/independent variable is ____________, and our outcome is ____________. The main strength of this design is ____________, but one limitation is ____________.**
 
-The instructor may ask **any group member** to explain part of the design, so make sure everyone understands the final plan.
 
 ---
 
@@ -254,31 +251,5 @@ You should still make all major decisions **together**.
 
 ---
 
-# Quick Design Check
-
-Before time is called, ask yourselves:
-
-- Does our research question match our design?
-- Are our variables clearly defined?
-- Does our population match the people or cases we want to understand?
-- Can we explain exactly how our outcome would be measured?
-- If we claim causation, do we actually have a randomized experiment?
-- If we use a quasi-experiment, have we identified an important alternative explanation?
-- Can every group member explain why this design makes sense?
-
----
-
-## What You Should Have at the End
-
-Your group should finish with:
-
-1. one research question;
-2. an optional hypothesis;
-3. a population and sample;
-4. clearly defined variables;
-5. one chosen research design;
-6. a short explanation of how data would be collected;
-7. one important limitation or alternative explanation; and
-8. one realistic design improvement.
 
 **You do not need to run the study or analyze data today. The purpose of this lab is to practice turning a research question into a coherent research design.**
