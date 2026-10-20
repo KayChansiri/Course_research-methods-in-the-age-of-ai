@@ -1,0 +1,182 @@
+participant_id,condition,age,gender,education_level,employment_status,primary_platform,daily_social_media_hours,news_use_hours,baseline_trust,message_trust,share_intention,clicked_article
+1,Control,25.0,Woman,Graduate degree,Employed part-time,Instagram,4.9,2.7,5.2,4.5,4.7,Yes
+2,Control,18.0,Woman,Graduate degree,Other / not currently employed,YouTube,7.6,3.3,4.6,3.1,4.0,No
+3,Control,32.0,Woman,High school / some college,Employed part-time,Instagram,3.6,2.6,4.4,3.8,3.7,No
+4,Personalized,23.0,Woman,High school / some college,Employed full-time,YouTube,5.9,2.5,4.3,4.5,4.2,No
+5,Personalized,18.0,Man,High school / some college,Student,YouTube,3.3,0.7,3.8,5.6,5.3,Yes
+6,Personalized,18.0,Woman,Bachelor’s degree,Employed part-time,Instagram,4.1,3.8,5.7,4.5,6.2,Yes
+7,Control,35.0,Man,Bachelor’s degree,Student,Instagram,0.3,0.8,4.5,3.6,4.6,Yes
+8,Personalized,33.0,Woman,Graduate degree,Employed part-time,Instagram,2.4,3.3,4.8,4.3,4.5,No
+9,Personalized,18.0,Woman,High school / some college,Student,Instagram,5.4,3.3,4.7,5.7,4.7,No
+10,Control,27.0,Man,Graduate degree,Student,Instagram,2.2,2.9,4.4,2.9,3.5,No
+11,Personalized,25.0,Man,High school / some college,Employed full-time,Instagram,6.3,0.7,3.0,3.2,3.9,No
+12,Personalized,33.0,Woman,Bachelor’s degree,Other / not currently employed,YouTube,3.8,1.0,3.6,4.3,3.9,Yes
+13,Personalized,,Man,Graduate degree,Employed full-time,Instagram,4.7,1.3,4.6,5.1,4.7,No
+14,Personalized,21.0,Man,Graduate degree,Employed part-time,YouTube,6.8,1.5,6.0,6.6,5.0,Yes
+15,Personalized,38.0,Man,Bachelor’s degree,Student,Instagram,4.3,3.4,3.8,2.6,3.8,No
+16,Control,25.0,Man,Graduate degree,Student,TikTok,5.1,3.4,3.4,3.3,2.3,No
+17,Personalized,25.0,Woman,Graduate degree,Employed full-time,YouTube,7.4,1.3,5.4,5.0,3.3,No
+18,Control,18.0,Woman,High school / some college,Employed part-time,Instagram,3.1,1.7,5.5,4.5,3.2,Yes
+19,Personalized,18.0,Woman,Bachelor’s degree,Employed part-time,Instagram,3.1,2.2,5.4,5.9,5.0,Yes
+20,Control,26.0,Woman,Graduate degree,Employed full-time,TikTok,2.9,2.9,4.9,3.7,4.1,No
+21,Personalized,37.0,Man,High school / some college,Student,Instagram,5.6,3.9,4.9,4.1,5.1,No
+22,Control,21.0,Woman,High school / some college,Student,YouTube,3.0,3.3,5.1,5.9,5.2,Yes
+23,Control,22.0,Woman,Bachelor’s degree,Student,YouTube,3.0,1.6,4.7,,4.9,Yes
+24,Personalized,18.0,Woman,High school / some college,Employed full-time,Instagram,2.3,1.3,6.2,6.2,5.4,No
+25,Control,28.0,Woman,Bachelor’s degree,Employed part-time,Instagram,3.9,1.7,3.9,4.6,5.3,Yes
+26,Control,42.0,Woman,High school / some college,Student,X,4.6,0.2,6.1,5.2,4.8,Yes
+27,Control,23.0,Woman,Graduate degree,Employed part-time,YouTube,3.2,1.4,4.8,3.9,3.4,No
+28,Personalized,25.0,Man,High school / some college,Employed part-time,YouTube,5.6,2.4,5.5,4.9,4.3,Yes
+29,Personalized,22.0,Nonbinary / another identity,Bachelor’s degree,Employed full-time,YouTube,5.8,3.5,3.9,4.0,4.6,Yes
+30,Personalized,39.0,Woman,Bachelor’s degree,Student,Instagram,4.2,2.7,4.5,4.4,4.1,Yes
+31,Control,26.0,Woman,Bachelor’s degree,Employed part-time,YouTube,3.1,1.8,3.7,4.1,2.2,No
+32,Control,19.0,Man,Bachelor’s degree,Other / not currently employed,Instagram,2.0,2.2,3.7,4.6,4.5,No
+33,Control,20.0,Woman,Bachelor’s degree,Student,Instagram,2.3,4.3,3.8,4.0,3.5,No
+34,Control,18.0,Woman,High school / some college,Student,Instagram,4.6,1.7,4.8,3.5,4.6,Yes
+35,Control,29.0,Woman,High school / some college,Student,Instagram,3.3,4.1,3.5,3.0,3.6,No
+36,Control,39.0,Man,High school / some college,Employed part-time,TikTok,3.8,1.5,4.7,3.9,3.8,Yes
+37,Control,21.0,Woman,High school / some college,Employed full-time,Instagram,2.5,2.0,2.8,2.2,3.6,No
+38,Personalized,18.0,Man,Bachelor’s degree,Employed part-time,TikTok,99.0,4.7,3.7,5.4,4.8,Yes
+39,Personalized,40.0,Man,Bachelor’s degree,Student,TikTok,3.5,3.1,4.2,3.6,3.3,Yes
+40,Personalized,25.0,Man,High school / some college,Employed full-time,YouTube,4.2,2.4,5.8,6.7,5.6,No
+41,Personalized,32.0,Man,Bachelor’s degree,Student,Instagram,3.2,1.4,5.2,5.7,4.0,Yes
+42,Control,22.0,Man,High school / some college,Student,X,3.7,4.7,4.4,2.6,3.3,Yes
+43,Control,18.0,Woman,Bachelor’s degree,Student,TikTok,2.7,0.6,4.5,3.9,4.7,No
+44,Personalized,36.0,Man,High school / some college,Student,Instagram,2.2,4.4,4.2,4.8,3.9,Yes
+45,Personalized,36.0,Man,Graduate degree,Student,YouTube,4.7,3.7,4.7,4.9,4.4,Yes
+46,Personalized,27.0,Man,Bachelor’s degree,Employed part-time,Instagram,2.3,1.2,3.7,5.5,5.6,No
+47,Control,28.0,Woman,Bachelor’s degree,Student,X,3.5,3.6,5.1,4.4,4.3,Yes
+48,Control,35.0,Woman,Graduate degree,Student,Instagram,3.8,1.1,6.2,5.3,5.3,Yes
+49,Control,27.0,Man,High school / some college,Student,Instagram,2.2,2.1,5.7,4.2,3.8,Yes
+50,Personalized,25.0,Man,High school / some college,Employed full-time,TikTok,2.3,2.5,5.2,4.8,5.4,Yes
+51,Personalized,23.0,Man,Graduate degree,Other / not currently employed,YouTube,3.8,3.1,4.7,4.5,4.2,Yes
+52,Personalized,31.0,Man,Graduate degree,Student,YouTube,3.3,2.6,3.5,4.8,3.2,Yes
+53,Control,25.0,Woman,Graduate degree,Student,Instagram,4.9,2.5,4.4,3.1,2.6,Yes
+54,Control,31.0,Nonbinary / another identity,Graduate degree,Employed part-time,Instagram,2.8,2.2,4.3,4.2,3.4,Yes
+55,Personalized,18.0,Man,Graduate degree,Employed full-time,TikTok,4.1,2.4,5.3,5.0,2.6,Yes
+56,Control,42.0,Woman,Bachelor’s degree,Employed full-time,YouTube,2.4,2.1,2.7,2.2,2.8,No
+57,Personalized,18.0,Man,Graduate degree,Employed full-time,TikTok,1.8,4.8,3.2,3.1,2.5,Yes
+58,Control,36.0,Man,Bachelor’s degree,Employed full-time,TikTok,2.6,2.3,4.8,3.0,2.8,No
+59,personalized,21.0,Woman,High school / some college,Other / not currently employed,X,2.5,4.0,3.8,4.3,4.1,No
+60,Personalized,37.0,Man,Bachelor’s degree,Employed full-time,YouTube,4.6,2.5,4.8,5.8,5.6,Yes
+61,Personalized,38.0,Woman,Bachelor’s degree,Employed full-time,Instagram,4.4,1.8,4.7,4.5,3.6,Yes
+62,Personalized,21.0,Woman,Graduate degree,Employed full-time,YouTube,5.5,3.5,4.9,5.2,6.2,Yes
+63,Control,30.0,Woman,High school / some college,Student,Instagram,5.1,5.0,6.3,4.6,3.4,No
+64,Personalized,46.0,Woman,Graduate degree,Student,YouTube,5.0,3.6,3.9,5.1,5.0,Yes
+65,Control,30.0,Man,Graduate degree,Other / not currently employed,YouTube,3.4,1.7,5.0,2.6,4.5,Yes
+66,Control,29.0,Woman,Graduate degree,Employed full-time,Instagram,5.2,2.0,2.3,3.1,3.2,No
+67,Control,18.0,Man,Bachelor’s degree,Other / not currently employed,Instagram,3.6,1.8,3.3,3.6,3.8,No
+68,Control,28.0,Woman,Bachelor’s degree,Student,TikTok,3.3,4.1,4.7,4.1,4.6,No
+69,Personalized,39.0,Prefer not to say,High school / some college,Student,Instagram,5.7,3.3,4.0,4.3,3.8,No
+70,Control,40.0,Man,Bachelor’s degree,Employed full-time,Instagram,2.6,3.9,4.4,2.4,2.8,No
+71,Control,35.0,Man,Bachelor’s degree,Employed full-time,Instagram,1.2,1.0,3.5,2.3,1.4,No
+72,Personalized,19.0,Woman,Bachelor’s degree,Student,TikTok,2.8,3.0,2.0,3.7,2.6,No
+73,Control,42.0,Woman,Graduate degree,Employed full-time,Instagram,4.1,3.2,4.1,3.8,4.5,No
+74,Personalized,36.0,Man,Graduate degree,Employed part-time,TikTok,3.8,3.3,3.0,3.9,3.4,No
+75,Control,21.0,Man,Bachelor’s degree,Student,Instagram,2.9,2.2,6.0,5.4,2.9,Yes
+76,Control,32.0,Woman,Graduate degree,Student,Instagram,4.2,2.6,6.7,6.1,5.8,Yes
+77,Control,36.0,Man,Graduate degree,Student,Instagram,3.1,1.6,3.8,2.2,1.6,No
+78,Control,31.0,Man,Bachelor’s degree,Employed full-time,YouTube,0.7,3.3,5.8,4.0,3.7,Yes
+79,Control,,Woman,Bachelor’s degree,Employed part-time,Instagram,2.0,4.2,3.7,2.5,3.1,Yes
+80,Control,28.0,Woman,Graduate degree,Student,Instagram,4.4,3.0,4.7,5.8,5.5,Yes
+81,Personalized,22.0,Woman,High school / some college,Student,TikTok,3.3,1.2,5.1,4.9,4.2,Yes
+82,Control,33.0,Man,Bachelor’s degree,Employed full-time,Instagram,3.9,2.6,6.6,4.9,3.9,Yes
+83,Control,34.0,Woman,High school / some college,Student,TikTok,2.6,0.7,2.5,1.9,1.1,No
+84,Personalized,24.0,Woman,Graduate degree,Student,Instagram,4.1,1.1,4.1,5.0,3.9,Yes
+85,Control,31.0,Prefer not to say,Graduate degree,Employed full-time,TikTok,4.4,1.3,3.8,3.0,3.3,No
+86,Control,31.0,Woman,Bachelor’s degree,Employed full-time,TikTok,3.1,1.4,3.1,2.5,2.3,No
+87,Personalized,28.0,Man,Bachelor’s degree,Student,Instagram,1.4,0.8,5.5,4.3,4.2,No
+88,Personalized,34.0,Woman,High school / some college,Employed full-time,X,3.5,4.5,5.0,3.6,3.2,Yes
+89,Control,18.0,Woman,High school / some college,Employed full-time,X,1.4,0.6,2.9,3.0,3.2,No
+90,Control,32.0,Woman,High school / some college,Employed full-time,YouTube,1.6,1.1,4.6,4.0,3.3,Yes
+91,Personalized,31.0,Prefer not to say,High school / some college,Employed full-time,TikTok,5.1,2.2,4.8,4.6,4.9,Yes
+92,Personalized,26.0,Woman,Bachelor’s degree,Employed part-time,TikTok,3.8,2.2,4.3,3.4,3.2,Yes
+93,Control,24.0,Man,High school / some college,Student,X,2.8,2.6,5.1,4.5,3.0,Yes
+94,Personalized,20.0,Man,High school / some college,Employed full-time,instagram,2.7,1.8,3.9,5.8,5.4,Yes
+95,Control,24.0,Man,Graduate degree,Employed part-time,X,3.7,3.4,5.3,4.2,3.6,Yes
+96,Control,24.0,Woman,Graduate degree,Employed full-time,YouTube,0.9,3.6,5.3,4.0,4.1,No
+97,Control,31.0,Man,High school / some college,Employed part-time,YouTube,4.6,2.0,4.9,4.9,4.9,Yes
+98,Personalized,30.0,Woman,Bachelor’s degree,Student,Instagram,5.4,2.7,3.7,3.7,3.6,No
+99,Control,33.0,Woman,Graduate degree,Employed full-time,Instagram,3.8,0.9,3.3,2.4,2.7,Yes
+100,Control,26.0,Woman,Bachelor’s degree,Student,Instagram,2.0,1.3,5.1,4.1,4.3,No
+101,Control,24.0,Prefer not to say,Bachelor’s degree,Employed full-time,Instagram,3.9,3.4,3.8,3.3,3.2,No
+102,Control,33.0,Woman,Bachelor’s degree,Employed full-time,X,3.2,0.3,2.9,1.7,2.4,No
+103,Personalized,33.0,Prefer not to say,Bachelor’s degree,Student,Instagram,3.2,2.4,4.1,4.9,5.0,Yes
+104,Personalized,38.0,Woman,Bachelor’s degree,Student,Instagram,3.2,1.2,5.0,4.3,4.0,Yes
+105,Control,25.0,Man,Graduate degree,Student,TikTok,1.9,4.4,3.5,3.6,4.9,No
+106,Personalized,30.0,Man,Bachelor’s degree,Student,TikTok,4.8,0.4,4.7,3.2,3.8,Yes
+107,Control,29.0,Woman,High school / some college,Student,YouTube,5.5,2.6,5.0,4.7,3.3,No
+108,Personalized,39.0,Woman,Bachelor’s degree,Student,YouTube,4.2,1.2,3.5,3.6,2.6,No
+109,Personalized,38.0,Woman,Bachelor’s degree,Employed full-time,YouTube,2.2,2.2,3.8,4.0,5.1,Yes
+110,Personalized,24.0,Man,Bachelor’s degree,Student,TikTok,1.9,3.2,4.2,5.0,5.4,No
+111,Control,24.0,Woman,Bachelor’s degree,Student,TikTok,5.4,3.5,3.3,3.5,4.0,Yes
+112,Personalized,31.0,Woman,Graduate degree,Student,YouTube,3.3,2.0,3.4,,3.6,No
+113,Personalized,36.0,Man,High school / some college,Student,Instagram,4.0,2.2,3.9,3.2,3.0,No
+114,Personalized,28.0,Woman,Bachelor’s degree,Employed full-time,TikTok,3.2,4.7,5.0,4.4,6.0,Yes
+115,Control,34.0,Man,High school / some college,Student,YouTube,3.4,2.8,3.5,3.6,4.1,No
+116,Personalized,38.0,Man,Bachelor’s degree,Employed part-time,TikTok,2.3,1.0,4.2,5.3,4.2,No
+117,Personalized,34.0,Man,Graduate degree,Student,Instagram,4.3,4.0,3.8,4.3,4.9,Yes
+118,Personalized,44.0,Man,High school / some college,Student,Instagram,3.9,2.0,3.5,3.5,1.8,Yes
+119,Personalized,23.0,Woman,Graduate degree,Student,YouTube,3.5,0.5,4.5,4.1,3.3,Yes
+120,Personalized,21.0,Woman,High school / some college,Employed part-time,TikTok,4.9,1.9,5.0,4.8,4.8,No
+121,Personalized,31.0,Woman,Bachelor’s degree,Other / not currently employed,TikTok,5.3,1.2,5.1,3.9,2.8,No
+122,Control,27.0,Woman,Graduate degree,Employed full-time,TikTok,3.1,2.3,3.5,4.8,5.8,No
+123,Control,36.0,Woman,Bachelor’s degree,Student,Instagram,5.7,2.3,5.8,4.9,5.7,Yes
+124,Personalized,46.0,Woman,High school / some college,Student,TikTok,4.4,1.9,4.5,3.8,3.9,No
+125,Personalized,27.0,Man,High school / some college,Employed full-time,Instagram,3.1,2.6,6.1,5.7,5.3,Yes
+126,Personalized,24.0,Prefer not to say,Bachelor’s degree,Other / not currently employed,Instagram,0.8,2.1,4.4,5.1,4.7,Yes
+127,Control,18.0,Woman,Bachelor’s degree,Employed full-time,Instagram,4.6,4.0,3.1,2.6,9.0,No
+128,Personalized,35.0,Woman,Bachelor’s degree,Employed part-time,YouTube,2.7,3.2,3.8,3.4,3.7,No
+129,Control,26.0,Woman,Graduate degree,Employed full-time,Instagram,4.3,2.7,5.8,4.7,5.4,Yes
+130,Personalized,29.0,Woman,Bachelor’s degree,Employed full-time,YouTube,3.1,2.0,6.1,6.8,3.9,Yes
+131,Personalized,38.0,Woman,Graduate degree,Student,TikTok,4.6,1.9,4.0,3.9,3.1,Yes
+132,Control,35.0,Man,Bachelor’s degree,Employed full-time,Instagram,0.8,1.2,4.2,4.5,4.4,No
+133,Control,21.0,Woman,High school / some college,Student,TikTok,3.8,2.1,5.5,4.6,4.1,No
+134,Personalized,45.0,Woman,High school / some college,Employed part-time,YouTube,2.9,3.8,4.4,3.5,2.1,Yes
+135,Personalized,30.0,Woman,High school / some college,Student,TikTok,4.0,2.0,3.3,4.7,3.0,No
+136,Personalized,25.0,Woman,High school / some college,Employed part-time,YouTube,4.9,2.1,4.1,3.6,4.4,Yes
+137,Control,33.0,Woman,Bachelor’s degree,Student,TikTok,1.5,0.9,5.6,4.2,4.6,No
+138,Personalized,22.0,Man,High school / some college,Other / not currently employed,TikTok,2.5,4.1,2.7,4.7,4.5,Yes
+139,Control,31.0,Woman,Bachelor’s degree,Student,TikTok,5.1,2.5,5.1,3.3,4.7,Yes
+140,Personalized,29.0,Man,Bachelor’s degree,Student,TikTok,6.5,3.0,3.9,2.3,4.3,Yes
+141,Control,32.0,Woman,Graduate degree,Student,YouTube,2.8,0.6,4.2,3.8,3.6,Yes
+142,Control,35.0,Woman,Graduate degree,Employed part-time,TikTok,5.2,3.4,3.7,3.2,3.9,Yes
+143,Control,31.0,Woman,Graduate degree,Student,YouTube,4.1,3.7,4.4,3.7,3.7,No
+144,Personalized,29.0,Man,Bachelor’s degree,Employed part-time,YouTube,1.8,2.3,3.8,5.3,5.5,Yes
+145,Personalized,39.0,Man,Graduate degree,Employed full-time,TikTok,4.7,1.9,4.4,4.4,4.7,Yes
+146,Control,,Prefer not to say,Graduate degree,Employed part-time,Instagram,3.7,3.1,2.9,2.6,3.6,No
+147,Personalized,44.0,Woman,High school / some college,Employed part-time,Instagram,2.9,2.1,4.8,4.6,4.7,No
+148,Control,25.0,Man,Graduate degree,Student,Instagram,4.0,4.0,3.6,3.8,3.5,Yes
+149,Personalized,31.0,Woman,Graduate degree,Employed full-time,TikTok,1.2,1.5,3.7,2.9,1.6,No
+150,Control,25.0,Woman,Bachelor’s degree,Employed part-time,YouTube,6.1,1.9,4.0,2.1,3.3,Yes
+151,Control,26.0,Prefer not to say,Graduate degree,Student,Instagram,2.1,2.7,4.1,2.9,3.7,No
+152,Control,31.0,Woman,Bachelor’s degree,Employed full-time,TikTok,5.7,3.2,3.0,1.7,2.8,No
+153,Control,32.0,Woman,Bachelor’s degree,Employed full-time,YouTube,3.8,2.0,4.5,4.4,4.4,Yes
+154,Control,26.0,Woman,Bachelor’s degree,Employed full-time,X,3.6,2.5,6.2,5.5,4.8,No
+155,Personalized,19.0,Woman,Graduate degree,Other / not currently employed,TikTok,3.3,1.7,5.0,5.8,6.1,Yes
+156,Personalized,23.0,Man,Bachelor’s degree,Student,X,2.6,2.6,3.4,4.6,4.1,Yes
+157,Personalized,26.0,Woman,Graduate degree,Employed full-time,YouTube,5.8,2.6,4.4,4.1,3.2,Yes
+158,Control,28.0,Woman,Graduate degree,Student,Instagram,4.0,2.8,5.8,4.8,3.5,No
+159,Personalized,31.0,Woman,Graduate degree,Student,YouTube,5.7,2.8,4.2,4.8,3.4,No
+160,Personalized,41.0,Woman,Bachelor’s degree,Student,Instagram,5.8,3.3,4.5,4.0,3.1,No
+161,Control,30.0,Woman,Graduate degree,Employed full-time,Instagram,0.5,1.9,3.7,3.2,2.0,No
+162,Control,33.0,Woman,Graduate degree,Student,YouTube,5.7,2.1,3.0,3.3,3.7,Yes
+163,Personalized,31.0,Man,Graduate degree,Student,YouTube,3.3,2.4,2.7,2.7,4.3,Yes
+164,Control,24.0,Man,Bachelor’s degree,Employed part-time,X,4.8,2.9,3.8,4.8,4.3,No
+165,Control,18.0,Man,Bachelor’s degree,Student,X,2.5,1.1,3.4,4.7,4.3,Yes
+166,Personalized,31.0,Man,High school / some college,Student,YouTube,2.3,2.7,4.6,5.0,3.4,Yes
+167,Personalized,31.0,Man,High school / some college,Employed full-time,TikTok,8.4,1.4,4.2,4.2,4.7,Yes
+168,Control,38.0,Woman,Bachelor’s degree,Student,Instagram,1.8,2.7,3.3,2.7,2.9,Yes
+169,Personalized,35.0,Man,Bachelor’s degree,Employed full-time,YouTube,3.0,3.1,5.9,4.8,5.0,Yes
+170,Personalized,28.0,Man,Graduate degree,Other / not currently employed,YouTube,3.4,1.7,3.1,3.8,3.3,Yes
+171,Personalized,23.0,Man,High school / some college,Employed part-time,TikTok,1.8,3.1,4.4,5.1,5.1,Yes
+172,Control,31.0,Woman,High school / some college,Employed full-time,TikTok,2.8,3.2,5.1,3.2,2.3,Yes
+173,Control,29.0,Woman,High school / some college,Student,Instagram,2.4,5.4,4.2,4.9,4.9,Yes
+174,Personalized,32.0,Man,High school / some college,Other / not currently employed,YouTube,4.0,3.4,5.6,4.2,4.2,Yes
+175,Personalized,29.0,Woman,Bachelor’s degree,Student,YouTube,4.4,0.2,4.8,4.2,2.6,Yes
+176,Control,26.0,Woman,Bachelor’s degree,Student,YouTube,0.8,2.3,4.9,3.9,3.6,Yes
+177,Personalized,24.0,Nonbinary / another identity,Bachelor’s degree,Employed part-time,TikTok,3.2,1.9,4.9,4.4,4.3,No
+178,Personalized,38.0,Woman,High school / some college,Employed full-time,X,0.7,3.7,3.9,2.5,3.0,Yes
+179,Control,24.0,Woman,Bachelor’s degree,Employed part-time,YouTube,4.3,3.2,5.3,5.0,4.5,No
+180,Personalized,22.0,Woman,Bachelor’s degree,Employed full-time,YouTube,4.2,2.6,6.2,7.0,4.9,Yes
+44,Personalized,36.0,Man,High school / some college,Student,Instagram,2.2,4.4,4.2,4.8,3.9,Yes
