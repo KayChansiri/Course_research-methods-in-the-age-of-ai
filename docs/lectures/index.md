@@ -58,5 +58,12 @@ Course materials are released progressively and may be updated as the semester d
     [Session 2 slides](week-0802.pdf)  
   
 
+-   **Week 10**
+
+    Data Structure, Cleaning, and Analytical Assumptions (Python and Pandas)
+
+    [Session 1 slides](week-1001.pdf)
+    
+  
 
 </div>
