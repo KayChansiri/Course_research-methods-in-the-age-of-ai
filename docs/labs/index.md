@@ -84,6 +84,43 @@ The purpose of the lab is to practice making the major parts of a research desig
 
 [Open Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
 
+---
+
+## Week 10 — Introduction to Data Analysis & Data Preparation
+
+Week 10 begins Block 3 of the course. We move from designing research studies to working with the data those studies produce.
+
+We will use the same fictional communication study dataset throughout Block 3. The dataset includes experimental conditions, demographic characteristics, media-use variables, and study outcomes.
+
+### Day 1 — From Research Design to Data Analysis
+
+Use the Colab codebook to follow the in-class demonstration of how researchers inspect and prepare data before conducting statistical analyses.
+
+You will practice:
+
+- loading the course dataset;
+- understanding rows, columns, and variable types;
+- inspecting a dataset before analysis;
+- identifying missing, inconsistent, and impossible values;
+- producing basic descriptive statistics;
+- visually inspecting data using a histogram and boxplot; and
+- using AI to help debug Python errors.
+
+You are **not expected to memorize the Python code**. Focus on understanding what each step does and why it matters for the research process.
+
+[Open Day 1 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Block3_Day1_Data_Cleaning.ipynb){ .md-button .md-button--primary }
+
+!!! note "Course Dataset"
+    The codebook loads the course dataset directly from GitHub. You do **not** need to download the dataset or upload it to Colab before class. Simply open the codebook and run the cells in order.
+
+### Day 2 — Data Cleaning & Preparation Lab
+
+In the Zoom lab, you will apply the Day 1 workflow yourself using the same course dataset.
+
+Lab instructions and the Day 2 codebook will be posted here.
+
+---
+
 ## How to Use the Codebooks
 
 During class, the codebooks may be used for live demonstrations and guided computational activities.
