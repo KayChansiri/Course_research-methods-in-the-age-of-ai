@@ -113,25 +113,39 @@ You are **not expected to memorize the Python code**. Focus on understanding wha
 !!! note "Course Dataset"
     The codebook loads the course dataset directly from GitHub. You do **not** need to download the dataset or upload it to Colab before class. Simply open the codebook and run the cells in order.
 
-### Day 2 — Data Cleaning & Preparation Lab
+### Day 2 — Zoom Lab: Data Preparation & Cleaning
 
-In the Zoom lab, you will apply the Day 1 workflow yourself using the same course dataset.
+In today's Zoom lab, you will work with your breakout-room group to inspect and prepare a communication research dataset.
 
-Lab instructions and the Day 2 codebook will be posted here.
+You will have **20 minutes** to complete the activity. Open the Colab codebook assigned to your **Zoom breakout room number**.
+
+Run the provided code in order and type your group's answers directly into the codebook. 
+
+At the end of the activity, your group will briefly share your Colab screen and explain one data problem you found, how you identified it, and the cleaning decision your group made.
+
+#### Open Your Group's Codebook
+
+**Breakout Room 1 — Sports Journalism**  
+[Open Group 1 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group1.ipynb){ .md-button .md-button--primary }
+
+**Breakout Room 2 — PR / Crisis Communication**  
+[Open Group 2 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group2.ipynb){ .md-button .md-button--primary }
+
+**Breakout Room 3 — Advertising & Media Effects**  
+[Open Group 3 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group3.ipynb){ .md-button .md-button--primary }
+
+**Breakout Room 4 — Sports Journalism**  
+[Open Group 4 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group4.ipynb){ .md-button .md-button--primary }
+
+**Breakout Room 5 — PR / Crisis Communication**  
+[Open Group 5 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group5.ipynb){ .md-button .md-button--primary }
+
+**Breakout Room 6 — Advertising & Media Effects**  
+[Open Group 6 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group6.ipynb){ .md-button .md-button--primary }
+
+!!! note "During the Lab"
+    One person in each group should share their screen and serve as the main typist. Everyone should contribute to the group's decisions.
+
+    You do not need to download the dataset separately. The codebook will load your group's dataset directly from GitHub.
 
 ---
-
-## How to Use the Codebooks
-
-During class, the codebooks may be used for live demonstrations and guided computational activities.
-
-You are encouraged to:
-
-* open the relevant codebook before or during class;
-* follow along as each step is demonstrated;
-* run the code in your own Colab environment;
-* add comments or notes explaining what each step does;
-* experiment with small changes to understand how the workflow behaves; and
-* return to the codebooks later as references for assignments and projects.
-
-The emphasis is on understanding **what the code is doing, why it is being used, and how to evaluate the output**.
