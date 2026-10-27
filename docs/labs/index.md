@@ -149,3 +149,8 @@ At the end of the activity, your group will briefly share your Colab screen and 
     You do not need to download the dataset separately. The codebook will load your group's dataset directly from GitHub.
 
 ---
+## Week 11 — Correlation, t-test, and Linear Regression
+
+Use this notebook to follow along with the in-class examples using our Block 3 course dataset.
+
+[Open Week 11 Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Week11_Day1_FollowAlong.ipynb)
