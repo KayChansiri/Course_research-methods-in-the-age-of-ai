@@ -63,6 +63,12 @@ Course materials are released progressively and may be updated as the semester d
     Data Structure, Cleaning, and Analytical Assumptions (Python and Pandas)
 
     [Session 1 slides](week-1001.pdf)
+
+-   **Week 11**
+
+    Correlation, t-test, Regression
+
+    [Session 1  and 2 slides](week-1101.pdf)
     
   
 
