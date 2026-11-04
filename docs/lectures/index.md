@@ -69,7 +69,12 @@ Course materials are released progressively and may be updated as the semester d
     Correlation, t-test, Regression
 
     [Session 1  and 2 slides](week-1101.pdf)
+
+-   **Week 12**
+
+    Analysis of Variance (ANOVA)
+
+    [Session 1  and 2 slides](week-1202.pdf)
     
-  
 
 </div>
