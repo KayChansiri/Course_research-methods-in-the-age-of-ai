@@ -1,3 +1,10 @@
+
+---
+hide:
+  - navigation
+---
+  
+
 # Labs & Codebooks
 
 This section contains the hands-on laboratory activities and Colab codebooks used during the course.
