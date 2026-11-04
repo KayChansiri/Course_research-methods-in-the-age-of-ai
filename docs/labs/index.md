@@ -1,9 +1,7 @@
-
 ---
 hide:
   - navigation
 ---
-  
 
 # Labs & Codebooks
 
