@@ -154,3 +154,23 @@ At the end of the activity, your group will briefly share your Colab screen and 
 Use this notebook to follow along with the in-class examples using our Block 3 course dataset.
 
 [Open Week 11 Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Week11_Day1_FollowAlong.ipynb)
+
+
+---
+
+## Week 12 — Analysis of Variance (ANOVA)
+
+In this lesson, we learn how to compare average scores across three or more groups using ANOVA.
+
+We will use the same Block 3 course dataset to examine whether message trust differs across education levels.
+
+You will learn how to:
+- Identify the grouping variable and outcome variable.
+- Compare group means.
+- Run a one-way ANOVA in Python.
+- Interpret the F statistic and p-value.
+- Use post-hoc comparisons to identify which groups differ.
+- Visualize and explain the results in plain language.
+
+[Open Week 12 ANOVA Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ANOVA_Colab_Lab.ipynb){ .md-button .md-button--primary }
+  
