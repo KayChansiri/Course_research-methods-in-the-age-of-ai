@@ -178,4 +178,29 @@ You will learn how to:
 - Visualize and explain the results in plain language.
 
 [Open Week 12 ANOVA Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ANOVA_Colab_Lab.ipynb){ .md-button .md-button--primary }
+
+
+---
+
+## Week 13 — Chi-square Test of Independence
+
+In this lesson, we learn how to examine whether two categorical variables are related using a chi-square test.
+
+We will use the same Block 3 course dataset to investigate whether message condition (Control vs. Personalized) is associated with clicking an article (Yes vs. No).
+
+You will learn how to:
+
+- Identify categorical variables.
+- Create a contingency table.
+- Compare counts and percentages.
+- Calculate expected counts under the null hypothesis.
+- Run a chi-square test in Python.
+- Interpret the chi-square statistic and p-value.
+- Visualize and explain the results in plain language.
+
+**Google Colab Follow-Along Exercise**
+
+You do not need to download the dataset separately. The notebook loads the course dataset directly from GitHub.
+
+[Open Week 13 Chi-square Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Lab.ipynb){ .md-button .md-button--primary }
   
