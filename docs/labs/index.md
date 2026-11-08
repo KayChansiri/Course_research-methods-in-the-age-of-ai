@@ -202,5 +202,5 @@ You will learn how to:
 
 You do not need to download the dataset separately. The notebook loads the course dataset directly from GitHub.
 
-[Open Week 13 Chi-square Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Lab.ipynb){ .md-button .md-button--primary }
+[Open Week 13 Chi-square Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Fresh_Copy_2026.ipynb){ .md-button .md-button--primary }
   
