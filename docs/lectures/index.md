@@ -75,6 +75,12 @@ Course materials are released progressively and may be updated as the semester d
     Analysis of Variance (ANOVA)
 
     [Session 1  and 2 slides](week-1202.pdf)
+
+-   **Week 13**
+
+    Chi-square (χ²) test of independence
+
+    [Session 1 slides](week-1301.pdf)
     
 
 </div>
