@@ -203,4 +203,12 @@ You will learn how to:
 You do not need to download the dataset separately. The notebook loads the course dataset directly from GitHub.
 
 [Open Week 13 Chi-square Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Fresh_Copy_2026.ipynb){ .md-button .md-button--primary }
-  
+
+### Day 2 — Zoom Lab: Five Statistical Tests
+
+Work with your breakout-room group to explore a communication dataset, run one statistical test, and explain your results.
+
+Each group has a ready-to-run Colab notebook and its own dataset.
+
+[**Open Week 13 Day 2 Lab Instructions and Group Colab Notebooks**](week-13-day-2-stats-zoom-lab.md){ .md-button .md-button--primary }
+
