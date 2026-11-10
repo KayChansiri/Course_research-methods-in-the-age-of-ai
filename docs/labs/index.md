@@ -20,13 +20,13 @@ You do not need to memorize Python code. Focus on understanding what each step a
 
 ### Week 1 — Research Methods in the Age of AI
 
-**Aug. 18 & 20 | Lecture and discussion — no lab or codebook**
+**Lecture and discussion — no lab or codebook**
 
 We introduce the course, contemporary research workflows, and the role of AI and computational tools in modern research. The second meeting introduces foundational LLM concepts. No formal lab or Colab notebook is assigned for this week.
 
 ### Week 2 — Inside Large Language Models
 
-**Aug. 25 & 27 | Lecture and demonstration — no separate lab or codebook listed here**
+**Lecture and demonstration — no separate lab or codebook**
 
 We examine concepts behind LLMs and Transformers, including tokenization, embeddings, attention, and inference, and introduce computational research environments. No separate lab notebook is linked for this week. See Blackboard for preparation and readings.
 
@@ -34,15 +34,15 @@ We examine concepts behind LLMs and Transformers, including tokenization, embedd
 
 Week 3 introduces Google Colab and foundational Python concepts.
 
-#### Day 1 — Sept. 1: Python Fundamentals in Colab
+#### Day 1: Python Fundamentals in Colab
 
-**In-person class | Follow-along notebook — not a Zoom lab**
+**Follow-along notebook**
 
 Use this notebook during the demonstration of Python syntax, variables, data types, and introductory workflows. You may also use it for independent review.
 
 [Open Day 1 Follow-Along Colab Notebook](https://colab.research.google.com/drive/1qYJVe0eNX4l-X2I2eaTMpo0zeG4tFYbL){ .md-button .md-button--primary }
 
-#### Day 2 — Sept. 3: Python Research Workflow Lab
+#### Day 2: Python Research Workflow Lab
 
 **Scheduled Zoom lab | Guided practice**
 
@@ -56,17 +56,17 @@ Apply introductory Python concepts in Google Colab during a synchronous laborato
 
 We connect Python with pretrained language models and explore the role of human judgment in evaluating AI-generated classifications.
 
-#### Day 1 — Sept. 8: Python Meets Pretrained Language Models
+#### Day 1: Python Meets Pretrained Language Models
 
-**In-person class | Follow-along notebook — not a Zoom lab**
+**Follow-along notebook**
 
 Follow the demonstration of accessing and working with pretrained language models through Python.
 
 [Open Day 1 Follow-Along Colab Notebook](https://colab.research.google.com/drive/1UmYDPBaB2KZiLZ-LgIKGLaX2bDALbIhz){ .md-button .md-button--primary }
 
-#### Day 2 — Sept. 10: Human + AI Literature Screening
+#### Day 2: Human + AI Literature Screening
 
-**In-person lab | Guided research activity — not a Zoom lab**
+**Guided research activity**
 
 Use a pretrained language model to support literature screening, then compare its judgments with independent human evaluations.
 
@@ -76,7 +76,7 @@ Use a pretrained language model to support literature screening, then compare it
 
 ### Week 5 — Block 1 Review and Knowledge Assessment
 
-**Sept. 15 & 17 | Review and in-class assessment — no lab or codebook**
+**Review and in-class assessment — no lab or codebook**
 
 This week is devoted to reviewing Block 1 and completing the knowledge assessment. No separate Colab notebook is assigned.
 
@@ -86,19 +86,19 @@ This week is devoted to reviewing Block 1 and completing the knowledge assessmen
 
 ### Week 6 — Research Questions, Hypotheses, and Surveys
 
-**Sept. 22 & 24 | Research methods instruction — no Colab lab or codebook**
+**Day1 and 2 | Research methods instruction — no Colab lab or codebook**
 
 The focus is on developing research questions and hypotheses and understanding survey research. Use the readings and class materials provided through Blackboard.
 
 ### Week 7 — Sampling and Measurement
 
-**Sept. 29 & Oct. 1 | Research methods instruction — no Colab lab or codebook**
+**Day 1 and 2| Research methods instruction — no Colab lab or codebook**
 
 We address sampling strategies, operationalization, reliability, and validity. No separate computational notebook is assigned.
 
 ### Week 8 — Randomized Experiments and A/B Testing
 
-**Oct. 6 & 8 | Research design instruction — no Colab lab or codebook**
+**Day 1 and 2| Research design instruction — no Colab lab or codebook**
 
 We study the logic of experiments, A/B testing, and causal inference. The focus is on research design rather than a separate computational laboratory.
 
@@ -108,9 +108,9 @@ We study the logic of experiments, A/B testing, and causal inference. The focus 
 
 ### Week 9 — Quasi-Experimental Research and Research Design Practice
 
-#### Oct. 13: Research Design Sprint
+#### Day 1: Research Design Sprint
 
-**Group research-design activity | Conducted on Zoom, as announced on Blackboard**
+**Group research-design activity**
 
 Apply earlier research design concepts by working with a small group to develop a study plan. Choose a survey, randomized experiment, or quasi-experimental design; specify a research question, population and sample, variables and measures, procedure, and a key limitation.
 
@@ -118,15 +118,15 @@ This is a **research-design group activity**, not a Python/Colab coding notebook
 
 [Open Research Design Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
 
-**Oct. 15: No class — Fall Break.**
+**Day 2: No class — Fall Break.**
 
 ### Week 10 — Introduction to Data Analysis and Data Preparation
 
 We move from designing research studies to inspecting and preparing the data those studies produce. Examples use fictional communication research datasets.
 
-#### Day 1 — Oct. 20: Data Structure and Cleaning
+#### Day 1: Data Structure and Cleaning
 
-**In-person class | Follow-along notebook — not a Zoom lab**
+**Follow-along notebook**
 
 Use the notebook during the instructor's demonstration to practice loading data, identifying variable types, inspecting missing or implausible values, producing descriptive summaries, and making basic plots. AI may also be used to help understand and debug code where permitted.
 
@@ -135,7 +135,7 @@ Use the notebook during the instructor's demonstration to practice loading data,
 !!! note "Course dataset"
     The notebook loads the instructional dataset directly from GitHub. You do not need to upload a separate dataset before following the examples.
 
-#### Day 2 — Oct. 22: Data Preparation and Cleaning
+#### Day 2: Data Preparation and Cleaning
 
 **Scheduled Zoom lab | Breakout-room activity**
 
@@ -172,7 +172,7 @@ Work with your group to inspect a communication dataset, identify data-quality i
 
 ### Week 11 — Correlation, t-Tests, and Linear Regression
 
-**Oct. 27 & 29 | In-person statistical instruction with follow-along examples — not a Zoom lab**
+**Day 1 and 2| Statistical instruction with follow-along examples — not a Zoom lab**
 
 Use this notebook to follow the class examples with the Block 3 dataset. Focus on choosing methods that fit the research question and variable types, running analyses, and interpreting results.
 
@@ -180,11 +180,11 @@ Use this notebook to follow the class examples with the Block 3 dataset. Focus o
 
 ### Week 12 — Analysis of Variance (ANOVA)
 
-**Nov. 3: No class — General Election Day.**
+**Day 1: No class — General Election Day.**
 
-#### Nov. 5: One-Way ANOVA
+#### Day 2: One-Way ANOVA
 
-**In-person class | Follow-along notebook — not a Zoom lab**
+**In-person class | Follow-along notebook**
 
 Learn to compare mean outcomes across three or more groups. Using the Block 3 dataset, the notebook demonstrates how to identify the grouping and outcome variables, calculate group means, run ANOVA, interpret the F-statistic and p-value, consider post-hoc comparisons, and explain results in plain language.
 
@@ -195,9 +195,9 @@ Learn to compare mean outcomes across three or more groups. Using the Block 3 da
 
 ### Week 13 — Chi-Square and Statistical Analysis Practice
 
-#### Day 1 — Nov. 10: Chi-Square Test of Independence
+#### Day 1: Chi-Square Test of Independence
 
-**In-person class | Follow-along notebook — not a Zoom lab**
+**Follow-along notebook**
 
 Learn how to test whether two categorical variables are associated. The example examines message condition (control versus personalized) and whether a reader clicked an article (yes versus no).
 
@@ -208,7 +208,7 @@ You will practice identifying categorical variables, creating contingency tables
 !!! note "Course dataset"
     The notebook loads the course dataset directly from GitHub. No separate dataset upload is needed.
 
-#### Day 2 — Nov. 12: Statistical Analysis with NumPy and SciPy.stats
+#### Day 2: Statistical Analysis with NumPy and SciPy.stats
 
 **Scheduled Zoom lab | Breakout-room statistical analysis activity**
 
@@ -218,7 +218,7 @@ Work with your group to examine a communication dataset, conduct an assigned sta
 
 ### Week 14 — Computational Text Analysis and Sentiment Classification
 
-**Nov. 17 & 19 | Course instruction — no separate lab or Colab notebook currently linked on this page**
+**Day 1 and 2 | Course instruction — no separate lab or Colab notebook currently linked on this page**
 
 We examine computational approaches to text data and sentiment classification. If additional notebooks or activities are assigned, links and instructions will be communicated through Blackboard.
 
@@ -232,15 +232,15 @@ We examine computational approaches to text data and sentiment classification. I
 
 ### Week 16 — Research Ethics, Communication, and Final Project Preparation
 
-**Dec. 1: Research Ethics in the Age of AI**
+**Day 1: Research Ethics in the Age of AI**
 
 Lecture and discussion; no separate Colab notebook listed on this page.
 
-**Dec. 3: Research Communication and Final Project Workshop**
+**Day 2: Research Communication and Final Project Workshop**
 
-In-person project consultation and preparation for the final stakeholder presentation. This is a **project workshop, not a Zoom or coding lab**. Follow the Assignment 5 instructions on Blackboard.
+Project consultation and preparation for the final stakeholder presentation. Follow the Assignment 5 instructions on Blackboard.
 
-### Final Examination Period — Dec. 8
+### Final Examination Period 
 
 **Final Stakeholder Research Presentations | No separate lab or codebook**
 
