@@ -5,12 +5,7 @@ hide:
 
 # Labs & Codebooks
 
-This page brings together the guided activities and Google Colab notebooks used in JOUR 701. **Not every week includes a laboratory**, and **a Colab link does not mean that class meets on Zoom**. Many notebooks are simply resources for following along with demonstrations during regular in-person class meetings or for reviewing examples afterward.
-
-- **Follow-along notebook:** A codebook accompanying an in-class demonstration. Open it to run examples, explore the workflow, and review the material. It is **not a separate lab or Zoom meeting**.
-- **In-person lab:** A guided activity completed during a scheduled face-to-face class session.
-- **Zoom lab:** A scheduled synchronous class meeting held on Zoom for guided, collaborative practice. Check Blackboard for the meeting link and any updates.
-- **No lab or codebook:** The week focuses on lectures, discussion, assessment, or other activities, with no separate notebook listed on this page.
+This page brings together the guided activities and Google Colab notebooks used in JOUR 701. **Not every week includes a laboratory**. Many notebooks are simply resources for following along with demonstrations during regular in-person class meetings or for reviewing examples afterward.
 
 You do not need to memorize Python code. Focus on understanding what each step accomplishes, why it is appropriate, and how to evaluate and interpret results. **Blackboard and the current course syllabus remain the official sources for meeting formats, schedules, and assignment instructions.**
 
@@ -114,7 +109,7 @@ We study the logic of experiments, A/B testing, and causal inference. The focus 
 
 Apply earlier research design concepts by working with a small group to develop a study plan. Choose a survey, randomized experiment, or quasi-experimental design; specify a research question, population and sample, variables and measures, procedure, and a key limitation.
 
-This is a **research-design group activity**, not a Python/Colab coding notebook. The updated Blackboard announcement identified this meeting as a Zoom session.
+This is a **research-design group activity**, not a Python/Colab coding notebook. 
 
 [Open Research Design Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
 
