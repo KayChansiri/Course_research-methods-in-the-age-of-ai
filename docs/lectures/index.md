@@ -49,7 +49,7 @@ Course materials are released progressively and may be updated as the semester d
 
     [Session 2 slides](week-0602.pdf)
 
--   **Week 8**
+-   **Week 8-9**
 
     RCTs, A/B Testing, Quasi-Experimental Research
 
