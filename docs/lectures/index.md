@@ -40,14 +40,14 @@ Course materials are released progressively and may be updated as the semester d
 
     Research Questions/Hypothesis, Survey Research
 
-    [Session 1 slides](week-0601.pdf)  
+    [Session 1 and 2 slides](week-0601.pdf)  
 
 
 -   **Week 7**
 
     Sampling and Measurement (Reliability and Validity)
 
-    [Session 2 slides](week-0602.pdf)
+    [Session 1 and 2 slides](week-0602.pdf)
 
 -   **Week 8-9**
 
@@ -62,7 +62,7 @@ Course materials are released progressively and may be updated as the semester d
 
     Data Structure, Cleaning, and Analytical Assumptions (Python and Pandas)
 
-    [Session 1 slides](week-1001.pdf)
+    [Session 1 and 2 slides](week-1001.pdf)
 
 -   **Week 11**
 
