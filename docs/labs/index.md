@@ -5,210 +5,254 @@ hide:
 
 # Labs & Codebooks
 
-This section contains the hands-on laboratory activities and Colab codebooks used during the course.
+This page brings together the guided activities and Google Colab notebooks used in JOUR 701. **Not every week includes a laboratory**, and **a Colab link does not mean that class meets on Zoom**. Many notebooks are simply resources for following along with demonstrations during regular in-person class meetings or for reviewing examples afterward.
 
-The **lab pages** provide guided activities for selected sessions. The **Colab codebooks** contain Python examples, demonstrations, and computational workflows used for teaching and live coding in class.
+- **Follow-along notebook:** A codebook accompanying an in-class demonstration. Open it to run examples, explore the workflow, and review the material. It is **not a separate lab or Zoom meeting**.
+- **In-person lab:** A guided activity completed during a scheduled face-to-face class session.
+- **Zoom lab:** A scheduled synchronous class meeting held on Zoom for guided, collaborative practice. Check Blackboard for the meeting link and any updates.
+- **No lab or codebook:** The week focuses on lectures, discussion, assessment, or other activities, with no separate notebook listed on this page.
 
-You are not expected to memorize code. The goal is to understand the logic of each workflow, follow along during demonstrations, and become comfortable reading, modifying, and evaluating computational research code.
-
----
-
-## Week 1 — Research Methods in the Age of AI
-
-Week 1 introduces the course, contemporary research workflows, and the role of AI and computational tools in modern research.
-
-No formal laboratory or Colab codebook is assigned for this week.
+You do not need to memorize Python code. Focus on understanding what each step accomplishes, why it is appropriate, and how to evaluate and interpret results. **Blackboard and the current course syllabus remain the official sources for meeting formats, schedules, and assignment instructions.**
 
 ---
 
-## Week 2 — Inside Large Language Models
+## Block 1 — Modern Research Tools in the Age of AI
 
-Week 2 introduces foundational concepts behind large language models and Transformers, including tokenization, embeddings, attention, and model inference.
+### Week 1 — Research Methods in the Age of AI
 
-No formal laboratory or Colab codebook is assigned for this week.
+**Aug. 18 & 20 | Lecture and discussion — no lab or codebook**
 
----
+We introduce the course, contemporary research workflows, and the role of AI and computational tools in modern research. The second meeting introduces foundational LLM concepts. No formal lab or Colab notebook is assigned for this week.
 
-## Week 3 — Python and Computational Research Environments
+### Week 2 — Inside Large Language Models
 
-Week 3 introduces Google Colab and foundational Python concepts used throughout the remainder of the course.
+**Aug. 25 & 27 | Lecture and demonstration — no separate lab or codebook listed here**
 
-### Day 1 — Python and Computational Research Environments
+We examine concepts behind LLMs and Transformers, including tokenization, embeddings, attention, and inference, and introduce computational research environments. No separate lab notebook is linked for this week. See Blackboard for preparation and readings.
 
-Use the Colab codebook to follow the in-class demonstration of the Python environment, basic syntax, variables, data types, and introductory computational workflows.
+### Week 3 — Python and Computational Research Environments
 
-[Open Day 1 Colab Codebook](https://colab.research.google.com/drive/1qYJVe0eNX4l-X2I2eaTMpo0zeG4tFYbL){ .md-button .md-button--primary }
+Week 3 introduces Google Colab and foundational Python concepts.
 
-### Day 2 — Python Research Workflow Lab
+#### Day 1 — Sept. 1: Python Fundamentals in Colab
 
-Apply introductory Python concepts through guided practice in Google Colab.
+**In-person class | Follow-along notebook — not a Zoom lab**
+
+Use this notebook during the demonstration of Python syntax, variables, data types, and introductory workflows. You may also use it for independent review.
+
+[Open Day 1 Follow-Along Colab Notebook](https://colab.research.google.com/drive/1qYJVe0eNX4l-X2I2eaTMpo0zeG4tFYbL){ .md-button .md-button--primary }
+
+#### Day 2 — Sept. 3: Python Research Workflow Lab
+
+**Scheduled Zoom lab | Guided practice**
+
+Apply introductory Python concepts in Google Colab during a synchronous laboratory session.
 
 [Open Lab Instructions](week-03-python.md){ .md-button }
 
-[Open Day 2 Colab Codebook](https://colab.research.google.com/drive/10Fq2WicWfDjyUn8vrg339gutoV3wj3gy){ .md-button .md-button--primary }
+[Open Day 2 Lab Colab Notebook](https://colab.research.google.com/drive/10Fq2WicWfDjyUn8vrg339gutoV3wj3gy){ .md-button .md-button--primary }
 
----
+### Week 4 — Python Meets Pretrained Language Models
 
-## Week 4 — Python Meets Pretrained Language Models
+We connect Python with pretrained language models and explore the role of human judgment in evaluating AI-generated classifications.
 
-Week 4 connects Python with pretrained language models and introduces a human-in-the-loop research workflow for evaluating AI-generated classifications.
+#### Day 1 — Sept. 8: Python Meets Pretrained Language Models
 
-### Day 1 — Python Meets Pretrained Language Models
+**In-person class | Follow-along notebook — not a Zoom lab**
 
-Use the Colab codebook to follow the in-class demonstration of accessing and working with pretrained language models through Python.
+Follow the demonstration of accessing and working with pretrained language models through Python.
 
-[Open Day 1 Colab Codebook](https://colab.research.google.com/drive/1UmYDPBaB2KZiLZ-LgIKGLaX2bDALbIhz){ .md-button .md-button--primary }
+[Open Day 1 Follow-Along Colab Notebook](https://colab.research.google.com/drive/1UmYDPBaB2KZiLZ-LgIKGLaX2bDALbIhz){ .md-button .md-button--primary }
 
-### Day 2 — Human + AI Literature Screening Lab
+#### Day 2 — Sept. 10: Human + AI Literature Screening
 
-Use a pretrained language model to support literature screening and compare model-generated judgments with your own evaluation.
+**In-person lab | Guided research activity — not a Zoom lab**
+
+Use a pretrained language model to support literature screening, then compare its judgments with independent human evaluations.
 
 [Open Lab Instructions](week-04-python.md){ .md-button }
 
-[Open Day 2 Colab Codebook](https://colab.research.google.com/drive/1jI3zs4p2IYNlOcF09bsk_XStwgvDojNF){ .md-button .md-button--primary }
+[Open Day 2 Lab Colab Notebook](https://colab.research.google.com/drive/1jI3zs4p2IYNlOcF09bsk_XStwgvDojNF){ .md-button .md-button--primary }
+
+### Week 5 — Block 1 Review and Knowledge Assessment
+
+**Sept. 15 & 17 | Review and in-class assessment — no lab or codebook**
+
+This week is devoted to reviewing Block 1 and completing the knowledge assessment. No separate Colab notebook is assigned.
 
 ---
 
-## Week 9 — Research Design Practice
+## Block 2 — Data Collection and Research Design
 
-Week 9 focuses on applying the research design concepts introduced in the previous weeks. Rather than learning a new design, you will work with a small group to build a complete study plan and practice connecting a research question to an appropriate method.
+### Week 6 — Research Questions, Hypotheses, and Surveys
 
-### Day 1 — Research Design Sprint Lab
+**Sept. 22 & 24 | Research methods instruction — no Colab lab or codebook**
 
-In this Zoom lab, you will work in a group of three to design a small research study from beginning to end.
+The focus is on developing research questions and hypotheses and understanding survey research. Use the readings and class materials provided through Blackboard.
 
-Your group will choose one of the following research designs:
+### Week 7 — Sampling and Measurement
 
-- survey;
-- randomized experiment; or
-- quasi-experiment.
+**Sept. 29 & Oct. 1 | Research methods instruction — no Colab lab or codebook**
 
-You will then develop a research question, identify the population and sample, define the main variables and measures, explain how the study would be conducted, and identify one important limitation or alternative explanation.
+We address sampling strategies, operationalization, reliability, and validity. No separate computational notebook is assigned.
 
-The purpose of the lab is to practice making the major parts of a research design fit together logically.
+### Week 8 — Randomized Experiments and A/B Testing
 
-[Open Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
+**Oct. 6 & 8 | Research design instruction — no Colab lab or codebook**
 
----
-
-## Week 10 — Introduction to Data Analysis & Data Preparation
-
-Week 10 begins Block 3 of the course. We move from designing research studies to working with the data those studies produce.
-
-We will use the same fictional communication study dataset throughout Block 3. The dataset includes experimental conditions, demographic characteristics, media-use variables, and study outcomes.
-
-### Day 1 — From Research Design to Data Analysis
-
-Use the Colab codebook to follow the in-class demonstration of how researchers inspect and prepare data before conducting statistical analyses.
-
-You will practice:
-
-- loading the course dataset;
-- understanding rows, columns, and variable types;
-- inspecting a dataset before analysis;
-- identifying missing, inconsistent, and impossible values;
-- producing basic descriptive statistics;
-- visually inspecting data using a histogram and boxplot; and
-- using AI to help debug Python errors.
-
-You are **not expected to memorize the Python code**. Focus on understanding what each step does and why it matters for the research process.
-
-[Open Day 1 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Block3_Day1_Data_Cleaning.ipynb){ .md-button .md-button--primary }
-
-!!! note "Course Dataset"
-    The codebook loads the course dataset directly from GitHub. You do **not** need to download the dataset or upload it to Colab before class. Simply open the codebook and run the cells in order.
-
-### Day 2 — Zoom Lab: Data Preparation & Cleaning
-
-In today's Zoom lab, you will work with your breakout-room group to inspect and prepare a communication research dataset.
-
-You will have **20 minutes** to complete the activity. Open the Colab codebook assigned to your **Zoom breakout room number**.
-
-Run the provided code in order and type your group's answers directly into the codebook. 
-
-At the end of the activity, your group will briefly share your Colab screen and explain one data problem you found, how you identified it, and the cleaning decision your group made.
-
-#### Open Your Group's Codebook
-
-**Breakout Room 1 — Sports Journalism**  
-[Open Group 1 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group1.ipynb){ .md-button .md-button--primary }
-
-**Breakout Room 2 — PR / Crisis Communication**  
-[Open Group 2 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group2.ipynb){ .md-button .md-button--primary }
-
-**Breakout Room 3 — Advertising & Media Effects**  
-[Open Group 3 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group3.ipynb){ .md-button .md-button--primary }
-
-**Breakout Room 4 — Sports Journalism**  
-[Open Group 4 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group4.ipynb){ .md-button .md-button--primary }
-
-**Breakout Room 5 — PR / Crisis Communication**  
-[Open Group 5 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group5.ipynb){ .md-button .md-button--primary }
-
-**Breakout Room 6 — Advertising & Media Effects**  
-[Open Group 6 Colab Codebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group6.ipynb){ .md-button .md-button--primary }
-
-!!! note "During the Lab"
-    One person in each group should share their screen and serve as the main typist. Everyone should contribute to the group's decisions.
-
-    You do not need to download the dataset separately. The codebook will load your group's dataset directly from GitHub.
-
----
-## Week 11 — Correlation, t-test, and Linear Regression
-
-Use this notebook to follow along with the in-class examples using our Block 3 course dataset.
-
-[Open Week 11 Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Week11_Day1_FollowAlong.ipynb)
-
+We study the logic of experiments, A/B testing, and causal inference. The focus is on research design rather than a separate computational laboratory.
 
 ---
 
-## Week 12 — Analysis of Variance (ANOVA)
+## Block 3 — Data Analysis and Interpretation
 
-In this lesson, we learn how to compare average scores across three or more groups using ANOVA.
+### Week 9 — Quasi-Experimental Research and Research Design Practice
 
-We will use the same Block 3 course dataset to examine whether message trust differs across education levels.
+#### Oct. 13: Research Design Sprint
 
-You will learn how to:
-- Identify the grouping variable and outcome variable.
-- Compare group means.
-- Run a one-way ANOVA in Python.
-- Interpret the F statistic and p-value.
-- Use post-hoc comparisons to identify which groups differ.
-- Visualize and explain the results in plain language.
+**Group research-design activity | Conducted on Zoom, as announced on Blackboard**
 
-[Open Week 12 ANOVA Follow-Along Notebook in Google Colab](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ANOVA_Colab_Lab.ipynb){ .md-button .md-button--primary }
+Apply earlier research design concepts by working with a small group to develop a study plan. Choose a survey, randomized experiment, or quasi-experimental design; specify a research question, population and sample, variables and measures, procedure, and a key limitation.
 
+This is a **research-design group activity**, not a Python/Colab coding notebook. The updated Blackboard announcement identified this meeting as a Zoom session.
+
+[Open Research Design Lab Instructions](week-09-day-1-research-design-lab.md){ .md-button .md-button--primary }
+
+**Oct. 15: No class — Fall Break.**
+
+### Week 10 — Introduction to Data Analysis and Data Preparation
+
+We move from designing research studies to inspecting and preparing the data those studies produce. Examples use fictional communication research datasets.
+
+#### Day 1 — Oct. 20: Data Structure and Cleaning
+
+**In-person class | Follow-along notebook — not a Zoom lab**
+
+Use the notebook during the instructor's demonstration to practice loading data, identifying variable types, inspecting missing or implausible values, producing descriptive summaries, and making basic plots. AI may also be used to help understand and debug code where permitted.
+
+[Open Day 1 Data Cleaning Follow-Along Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Block3_Day1_Data_Cleaning.ipynb){ .md-button .md-button--primary }
+
+!!! note "Course dataset"
+    The notebook loads the instructional dataset directly from GitHub. You do not need to upload a separate dataset before following the examples.
+
+#### Day 2 — Oct. 22: Data Preparation and Cleaning
+
+**Scheduled Zoom lab | Breakout-room activity**
+
+Work with your group to inspect a communication dataset, identify data-quality issues, justify cleaning decisions, and share your screen to explain your findings. Allow approximately **20 minutes** for the group activity. Open the notebook matching your assigned breakout room.
+
+##### Breakout-Room Codebooks
+
+**Room 1 — Sports Journalism**
+
+[Open Group 1 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group1.ipynb){ .md-button .md-button--primary }
+
+**Room 2 — PR / Crisis Communication**
+
+[Open Group 2 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group2.ipynb){ .md-button .md-button--primary }
+
+**Room 3 — Advertising & Media Effects**
+
+[Open Group 3 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group3.ipynb){ .md-button .md-button--primary }
+
+**Room 4 — Sports Journalism**
+
+[Open Group 4 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group4.ipynb){ .md-button .md-button--primary }
+
+**Room 5 — PR / Crisis Communication**
+
+[Open Group 5 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group5.ipynb){ .md-button .md-button--primary }
+
+**Room 6 — Advertising & Media Effects**
+
+[Open Group 6 Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/data-prep-lab/JOUR701_DataPrepLab_Group6.ipynb){ .md-button .md-button--primary }
+
+!!! note "During the Zoom lab"
+    One person per group may share their screen and type, but all members should participate in discussing the decisions. The notebooks load their instructional datasets directly from GitHub.
+
+### Week 11 — Correlation, t-Tests, and Linear Regression
+
+**Oct. 27 & 29 | In-person statistical instruction with follow-along examples — not a Zoom lab**
+
+Use this notebook to follow the class examples with the Block 3 dataset. Focus on choosing methods that fit the research question and variable types, running analyses, and interpreting results.
+
+[Open Week 11 Follow-Along Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_Week11_Day1_FollowAlong.ipynb){ .md-button .md-button--primary }
+
+### Week 12 — Analysis of Variance (ANOVA)
+
+**Nov. 3: No class — General Election Day.**
+
+#### Nov. 5: One-Way ANOVA
+
+**In-person class | Follow-along notebook — not a Zoom lab**
+
+Learn to compare mean outcomes across three or more groups. Using the Block 3 dataset, the notebook demonstrates how to identify the grouping and outcome variables, calculate group means, run ANOVA, interpret the F-statistic and p-value, consider post-hoc comparisons, and explain results in plain language.
+
+[Open Week 12 ANOVA Follow-Along Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ANOVA_Colab_Lab.ipynb){ .md-button .md-button--primary }
+
+!!! note "Notebook versus meeting format"
+    The notebook filename includes “Lab,” but this link supports the **in-person ANOVA lesson**; it does not indicate a separate Zoom laboratory.
+
+### Week 13 — Chi-Square and Statistical Analysis Practice
+
+#### Day 1 — Nov. 10: Chi-Square Test of Independence
+
+**In-person class | Follow-along notebook — not a Zoom lab**
+
+Learn how to test whether two categorical variables are associated. The example examines message condition (control versus personalized) and whether a reader clicked an article (yes versus no).
+
+You will practice identifying categorical variables, creating contingency tables, comparing observed and expected counts, running the test, and interpreting the chi-square statistic and p-value.
+
+[Open Week 13 Chi-Square Follow-Along Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Fresh_Copy_2026.ipynb){ .md-button .md-button--primary }
+
+!!! note "Course dataset"
+    The notebook loads the course dataset directly from GitHub. No separate dataset upload is needed.
+
+#### Day 2 — Nov. 12: Statistical Analysis with NumPy and SciPy.stats
+
+**Scheduled Zoom lab | Breakout-room statistical analysis activity**
+
+Work with your group to examine a communication dataset, conduct an assigned statistical test, and explain what the results mean. Each group has a prepared notebook and instructional dataset.
+
+[Open Week 13 Day 2 Lab Instructions and Group Colab Notebooks](week-13-day-2-stats-zoom-lab.md){ .md-button .md-button--primary }
+
+### Week 14 — Computational Text Analysis and Sentiment Classification
+
+**Nov. 17 & 19 | Course instruction — no separate lab or Colab notebook currently linked on this page**
+
+We examine computational approaches to text data and sentiment classification. If additional notebooks or activities are assigned, links and instructions will be communicated through Blackboard.
+
+### Week 15 — Thanksgiving Recess
+
+**Nov. 24 & 26 | No class — no lab or codebook**
 
 ---
 
-## Week 13 — Chi-square Test of Independence
+## Block 4 — Responsible Research and Communication
 
-In this lesson, we learn how to examine whether two categorical variables are related using a chi-square test.
+### Week 16 — Research Ethics, Communication, and Final Project Preparation
 
-We will use the same Block 3 course dataset to investigate whether message condition (Control vs. Personalized) is associated with clicking an article (Yes vs. No).
+**Dec. 1: Research Ethics in the Age of AI**
 
-You will learn how to:
+Lecture and discussion; no separate Colab notebook listed on this page.
 
-- Identify categorical variables.
-- Create a contingency table.
-- Compare counts and percentages.
-- Calculate expected counts under the null hypothesis.
-- Run a chi-square test in Python.
-- Interpret the chi-square statistic and p-value.
-- Visualize and explain the results in plain language.
+**Dec. 3: Research Communication and Final Project Workshop**
 
-**Google Colab Follow-Along Exercise**
+In-person project consultation and preparation for the final stakeholder presentation. This is a **project workshop, not a Zoom or coding lab**. Follow the Assignment 5 instructions on Blackboard.
 
-You do not need to download the dataset separately. The notebook loads the course dataset directly from GitHub.
+### Final Examination Period — Dec. 8
 
-[Open Week 13 Chi-square Colab Notebook](https://colab.research.google.com/github/KayChansiri/Course_research-methods-in-the-age-of-ai/blob/main/notebooks/JOUR701_ChiSquare_Colab_Fresh_Copy_2026.ipynb){ .md-button .md-button--primary }
+**Final Stakeholder Research Presentations | No separate lab or codebook**
 
-### Day 2 — Zoom Lab: Five Statistical Tests
+Groups present and interpret their findings during the scheduled final examination period. See Blackboard for presentation instructions and assessment details.
 
-Work with your breakout-room group to explore a communication dataset, run one statistical test, and explain your results.
+---
 
-Each group has a ready-to-run Colab notebook and its own dataset.
+## Using These Materials
 
-[**Open Week 13 Day 2 Lab Instructions and Group Colab Notebooks**](week-13-day-2-stats-zoom-lab.md){ .md-button .md-button--primary }
+1. **Check Blackboard first** for the current meeting format, official Zoom link, readings, assignments, and any schedule changes.
+2. **Open follow-along notebooks** during the relevant in-person lesson or afterward for review. A notebook link alone never means the class is online.
+3. **For scheduled labs**, read the linked instructions and use the notebook assigned to your session or group.
+4. **Run code in sequence and examine the output.** Prioritize methodological decisions and interpretation over memorizing syntax.
+5. **Use only approved instructional or appropriately authorized data** in Colab and AI tools; do not upload confidential or personally identifiable information.
 
