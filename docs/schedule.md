@@ -27,6 +27,6 @@
 | Block | Weeks | Focus |
 | --- | --- | --- |
 | **Block 1** | Weeks 1–4 | Modern Research Tools in the Age of AI |
-| **Block 2** | Weeks 5–7 | Data Collection and Research Design |
-| **Block 3** | Weeks 8–15 | Data Analysis and Interpretation |
+| **Block 2** | Weeks 5–8 | Data Collection and Research Design |
+| **Block 3** | Weeks 9–15 | Data Analysis and Interpretation |
 | **Block 4** | Week 16 + Final Project | Responsible Research and Communication |
