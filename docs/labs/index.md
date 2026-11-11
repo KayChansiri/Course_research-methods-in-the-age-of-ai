@@ -217,7 +217,7 @@ Work with your group to examine a communication dataset, conduct an assigned sta
 
 In this lab, we will explore how computational methods can help researchers analyze written responses. Building on our Block 3 experimental dataset, we will practice text preprocessing, word frequency counts, and keyword analysis using Python.
 
-**Google Colab Notebook:** [Open November 17 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov17_Computational_Text_Analysis_Colab.ipynb)
+**Google Colab Notebook:** [Open Week 14 day 1 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov17_Computational_Text_Analysis_Colab.ipynb)
 
 **What you will learn:**
 - Prepare open-ended survey responses for computational analysis.
@@ -229,7 +229,7 @@ In this lab, we will explore how computational methods can help researchers anal
 
 In this lab, we will learn how researchers classify written responses as positive, negative, or neutral using computational methods. We will compare human judgments with automated sentiment classification and connect the findings to statistical analyses from Block 3.
 
-**Google Colab Notebook:** [Open November 19 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov19_Sentiment_Classification_Colab.ipynb)
+**Google Colab Notebook:** [Open week 14 day 2 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov19_Sentiment_Classification_Colab.ipynb)
 
 **What you will learn:**
 - Understand sentiment classification and its applications in mass communication research.
