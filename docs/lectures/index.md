@@ -81,6 +81,11 @@ Course materials are released progressively and may be updated as the semester d
     Chi-square (χ²) test of independence
 
     [Session 1 slides](week-1301.pdf)
-    
+
+
+-   **Week 14**
+
+    Computational text analytics
+    [Session 1 slides](week-1401.pdf)
 
 </div>
