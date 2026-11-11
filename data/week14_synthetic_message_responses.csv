@@ -1,0 +1,181 @@
+participant_id,condition,baseline_trust,message_trust,education_level,clicked_article,open_response
+1,Control,2.7,3.37,High school,No,"The post was clear, but it felt generic."
+2,Control,4.0,3.67,Graduate degree,Yes,"I understood the message, but it did not feel relevant to me."
+3,Control,3.59,4.12,High school,No,It was informative and easy to read.
+4,Control,3.78,2.57,Some college,No,"I liked the information, although it seemed impersonal."
+5,Control,3.14,3.1,Bachelor’s degree,No,This message felt confusing and unconvincing.
+6,Control,3.9,3.78,Some college,No,The advice was useful but a little too general.
+7,Control,3.95,2.62,Graduate degree,No,I was skeptical of the claims in the post.
+8,Control,2.58,2.15,Bachelor’s degree,Yes,The message was fine. Nothing really stood out.
+9,Control,3.05,3.62,High school,No,"I appreciated the facts, but I wanted more detail."
+10,Control,3.3,1.81,Some college,Yes,I felt unsure whether I could trust this post.
+11,Control,2.31,2.68,Bachelor’s degree,No,The wording was straightforward and helpful.
+12,Control,2.42,2.97,High school,Yes,This was boring and did not catch my attention.
+13,Control,2.91,1.73,Graduate degree,No,"I liked the message, but it seemed repetitive."
+14,Control,3.58,3.05,High school,No,"The content seemed accurate, yet I was not persuaded."
+15,Control,3.44,3.21,Graduate degree,No,I would probably scroll past this post.
+16,Control,4.63,4.56,Bachelor’s degree,Yes,The post gave useful context and made sense.
+17,Control,3.92,3.67,Some college,No,"I did not dislike it, but it was not very engaging."
+18,Control,3.5,3.16,High school,No,"The headline was interesting, but the post felt vague."
+19,Control,3.8,3.6,Some college,No,"The post was clear, but it felt generic."
+20,Control,3.74,3.83,High school,Yes,"I understood the message, but it did not feel relevant to me."
+21,Control,3.02,3.62,High school,No,It was informative and easy to read.
+22,Control,3.5,2.75,Bachelor’s degree,No,"I liked the information, although it seemed impersonal."
+23,Control,3.46,3.77,High school,No,This message felt confusing and unconvincing.
+24,Control,4.63,3.0,High school,Yes,The advice was useful but a little too general.
+25,Control,4.19,3.27,Bachelor’s degree,No,I was skeptical of the claims in the post.
+26,Control,4.3,3.2,Bachelor’s degree,No,The message was fine. Nothing really stood out.
+27,Control,3.59,2.96,Bachelor’s degree,No,"I appreciated the facts, but I wanted more detail."
+28,Control,3.55,4.03,Some college,No,I felt unsure whether I could trust this post.
+29,Control,2.89,1.86,Graduate degree,Yes,The wording was straightforward and helpful.
+30,Control,4.85,3.16,Some college,Yes,This was boring and did not catch my attention.
+31,Control,3.36,3.42,Some college,No,"I liked the message, but it seemed repetitive."
+32,Control,3.78,2.95,Bachelor’s degree,No,"The content seemed accurate, yet I was not persuaded."
+33,Control,3.4,2.34,Graduate degree,Yes,I would probably scroll past this post.
+34,Control,2.51,2.13,Graduate degree,No,The post gave useful context and made sense.
+35,Control,4.37,4.16,Graduate degree,No,"I did not dislike it, but it was not very engaging."
+36,Control,1.79,3.48,Bachelor’s degree,No,"The headline was interesting, but the post felt vague."
+37,Control,3.93,2.96,Graduate degree,Yes,"The post was clear, but it felt generic."
+38,Control,3.64,2.65,Graduate degree,No,"I understood the message, but it did not feel relevant to me."
+39,Control,1.77,1.56,Some college,Yes,It was informative and easy to read.
+40,Control,3.68,1.99,Some college,Yes,"I liked the information, although it seemed impersonal."
+41,Control,3.75,3.04,Some college,Yes,This message felt confusing and unconvincing.
+42,Control,4.23,2.97,Graduate degree,Yes,The advice was useful but a little too general.
+43,Control,1.78,2.44,Some college,Yes,I was skeptical of the claims in the post.
+44,Control,2.4,2.27,Some college,No,The message was fine. Nothing really stood out.
+45,Control,4.64,2.97,Bachelor’s degree,No,"I appreciated the facts, but I wanted more detail."
+46,Control,2.57,3.68,Some college,No,I felt unsure whether I could trust this post.
+47,Control,2.3,1.9,High school,No,The wording was straightforward and helpful.
+48,Control,4.31,2.72,Some college,Yes,This was boring and did not catch my attention.
+49,Control,2.9,3.21,High school,No,"I liked the message, but it seemed repetitive."
+50,Control,1.53,3.15,Graduate degree,No,"The content seemed accurate, yet I was not persuaded."
+51,Control,3.21,3.54,Bachelor’s degree,Yes,I would probably scroll past this post.
+52,Control,2.87,2.44,Bachelor’s degree,Yes,The post gave useful context and made sense.
+53,Control,3.47,1.69,Some college,No,"I did not dislike it, but it was not very engaging."
+54,Control,2.18,3.38,Some college,No,"The headline was interesting, but the post felt vague."
+55,Control,4.21,2.67,Bachelor’s degree,Yes,"The post was clear, but it felt generic."
+56,Control,5.0,3.64,Bachelor’s degree,No,"I understood the message, but it did not feel relevant to me."
+57,Control,3.19,3.83,Bachelor’s degree,Yes,It was informative and easy to read.
+58,Control,3.93,2.44,Graduate degree,No,"I liked the information, although it seemed impersonal."
+59,Control,2.42,3.07,Graduate degree,No,This message felt confusing and unconvincing.
+60,Control,3.53,3.62,High school,Yes,The advice was useful but a little too general.
+61,Control,3.71,3.56,High school,No,I was skeptical of the claims in the post.
+62,Control,3.49,3.33,Some college,Yes,The message was fine. Nothing really stood out.
+63,Control,2.11,2.98,Some college,No,"I appreciated the facts, but I wanted more detail."
+64,Control,2.99,2.58,Some college,Yes,I felt unsure whether I could trust this post.
+65,Control,2.75,3.1,Some college,Yes,The wording was straightforward and helpful.
+66,Control,3.73,2.93,High school,No,This was boring and did not catch my attention.
+67,Control,3.71,3.95,Some college,No,"I liked the message, but it seemed repetitive."
+68,Control,3.37,3.07,Graduate degree,No,"The content seemed accurate, yet I was not persuaded."
+69,Control,2.77,2.51,Graduate degree,No,I would probably scroll past this post.
+70,Control,4.04,3.19,Some college,No,The post gave useful context and made sense.
+71,Control,3.84,4.42,Graduate degree,No,"I did not dislike it, but it was not very engaging."
+72,Control,2.47,3.02,Graduate degree,Yes,"The headline was interesting, but the post felt vague."
+73,Control,5.0,3.4,High school,Yes,"The post was clear, but it felt generic."
+74,Control,1.27,3.02,Bachelor’s degree,No,"I understood the message, but it did not feel relevant to me."
+75,Control,4.21,3.79,Bachelor’s degree,No,It was informative and easy to read.
+76,Control,5.0,3.64,Some college,No,"I liked the information, although it seemed impersonal."
+77,Control,2.55,3.07,High school,No,This message felt confusing and unconvincing.
+78,Control,3.66,3.68,High school,No,The advice was useful but a little too general.
+79,Control,4.68,4.23,Graduate degree,No,I was skeptical of the claims in the post.
+80,Control,4.91,3.18,Some college,Yes,The message was fine. Nothing really stood out.
+81,Control,2.93,3.18,High school,Yes,"I appreciated the facts, but I wanted more detail."
+82,Control,2.98,2.15,High school,No,I felt unsure whether I could trust this post.
+83,Control,3.16,3.2,Bachelor’s degree,No,The wording was straightforward and helpful.
+84,Control,3.39,3.44,Some college,No,This was boring and did not catch my attention.
+85,Control,2.17,2.9,High school,No,"I liked the message, but it seemed repetitive."
+86,Control,4.23,3.82,High school,Yes,"The content seemed accurate, yet I was not persuaded."
+87,Control,3.46,3.14,Graduate degree,Yes,I would probably scroll past this post.
+88,Control,3.25,2.8,Some college,No,The post gave useful context and made sense.
+89,Control,2.79,2.4,High school,No,"I did not dislike it, but it was not very engaging."
+90,Control,3.27,3.99,Some college,Yes,"The headline was interesting, but the post felt vague."
+91,Personalized,3.46,2.42,Graduate degree,Yes,The message felt relevant to my interests and easy to follow.
+92,Personalized,4.14,3.18,Graduate degree,No,I liked how the post spoke to my interests.
+93,Personalized,4.63,3.38,Bachelor’s degree,No,This felt personal and genuinely helpful.
+94,Personalized,2.29,3.25,Some college,Yes,The tailored message made me feel understood.
+95,Personalized,3.43,3.65,Some college,Yes,"I liked the details, but the targeting felt a little creepy."
+96,Personalized,4.37,4.18,Some college,Yes,"This was useful, but I worry about how it knew my interests."
+97,Personalized,4.25,3.44,Graduate degree,No,The post was interesting and convincing.
+98,Personalized,1.27,2.74,Some college,No,"It was clear and relevant, although somewhat intrusive."
+99,Personalized,3.54,3.99,Bachelor’s degree,No,I felt more engaged because the message related to me.
+100,Personalized,2.83,2.76,Some college,No,I enjoyed this post. It was very helpful.
+101,Personalized,3.25,3.53,Some college,No,The personalized approach seemed manipulative.
+102,Personalized,3.7,4.82,Bachelor’s degree,Yes,It caught my attention but made me uncomfortable.
+103,Personalized,2.41,3.24,High school,No,This was informative and felt directly relevant.
+104,Personalized,3.19,3.75,Some college,No,I liked the content but not the personalized tone.
+105,Personalized,4.26,3.61,Bachelor’s degree,No,I was not convinced even though the topic fit my interests.
+106,Personalized,2.43,2.54,Bachelor’s degree,Yes,This post seemed thoughtful and easy to understand.
+107,Personalized,3.06,3.3,Some college,No,I appreciated the tailored explanation.
+108,Personalized,3.38,4.27,High school,Yes,"The message was helpful, though I remain skeptical."
+109,Personalized,3.03,2.79,Some college,Yes,The message felt relevant to my interests and easy to follow.
+110,Personalized,3.57,2.42,Graduate degree,No,I liked how the post spoke to my interests.
+111,Personalized,2.74,3.67,Bachelor’s degree,Yes,This felt personal and genuinely helpful.
+112,Personalized,3.4,3.51,Some college,No,The tailored message made me feel understood.
+113,Personalized,3.67,3.91,Graduate degree,Yes,"I liked the details, but the targeting felt a little creepy."
+114,Personalized,4.52,2.99,High school,Yes,"This was useful, but I worry about how it knew my interests."
+115,Personalized,3.83,2.87,Some college,No,The post was interesting and convincing.
+116,Personalized,3.91,3.48,Some college,Yes,"It was clear and relevant, although somewhat intrusive."
+117,Personalized,2.88,3.52,High school,Yes,I felt more engaged because the message related to me.
+118,Personalized,2.55,2.32,Bachelor’s degree,No,I enjoyed this post. It was very helpful.
+119,Personalized,2.92,3.44,High school,Yes,The personalized approach seemed manipulative.
+120,Personalized,3.94,3.7,High school,Yes,It caught my attention but made me uncomfortable.
+121,Personalized,4.11,3.55,Graduate degree,Yes,This was informative and felt directly relevant.
+122,Personalized,3.2,3.32,Some college,No,I liked the content but not the personalized tone.
+123,Personalized,2.68,3.72,Bachelor’s degree,Yes,I was not convinced even though the topic fit my interests.
+124,Personalized,4.25,3.62,Bachelor’s degree,Yes,This post seemed thoughtful and easy to understand.
+125,Personalized,4.54,3.21,Some college,Yes,I appreciated the tailored explanation.
+126,Personalized,2.58,3.69,Bachelor’s degree,Yes,"The message was helpful, though I remain skeptical."
+127,Personalized,4.76,4.04,Bachelor’s degree,Yes,The message felt relevant to my interests and easy to follow.
+128,Personalized,3.68,3.34,Bachelor’s degree,Yes,I liked how the post spoke to my interests.
+129,Personalized,2.35,3.29,Bachelor’s degree,Yes,This felt personal and genuinely helpful.
+130,Personalized,1.26,3.27,Bachelor’s degree,No,The tailored message made me feel understood.
+131,Personalized,3.71,3.57,Bachelor’s degree,Yes,"I liked the details, but the targeting felt a little creepy."
+132,Personalized,2.72,2.91,Some college,Yes,"This was useful, but I worry about how it knew my interests."
+133,Personalized,3.56,2.98,Bachelor’s degree,Yes,The post was interesting and convincing.
+134,Personalized,3.87,2.97,Some college,Yes,"It was clear and relevant, although somewhat intrusive."
+135,Personalized,3.46,4.14,Graduate degree,No,I felt more engaged because the message related to me.
+136,Personalized,3.6,2.53,Some college,Yes,I enjoyed this post. It was very helpful.
+137,Personalized,4.72,4.4,Graduate degree,Yes,The personalized approach seemed manipulative.
+138,Personalized,3.22,3.04,Bachelor’s degree,Yes,It caught my attention but made me uncomfortable.
+139,Personalized,3.56,4.15,Graduate degree,Yes,This was informative and felt directly relevant.
+140,Personalized,2.82,3.79,Some college,No,I liked the content but not the personalized tone.
+141,Personalized,4.05,2.85,Graduate degree,Yes,I was not convinced even though the topic fit my interests.
+142,Personalized,1.23,2.82,High school,Yes,This post seemed thoughtful and easy to understand.
+143,Personalized,3.7,2.2,High school,No,I appreciated the tailored explanation.
+144,Personalized,3.74,3.0,Graduate degree,No,"The message was helpful, though I remain skeptical."
+145,Personalized,3.94,4.2,High school,No,The message felt relevant to my interests and easy to follow.
+146,Personalized,2.93,3.37,Graduate degree,No,I liked how the post spoke to my interests.
+147,Personalized,2.7,3.37,Bachelor’s degree,No,This felt personal and genuinely helpful.
+148,Personalized,4.14,4.39,High school,Yes,The tailored message made me feel understood.
+149,Personalized,4.28,3.25,Some college,Yes,"I liked the details, but the targeting felt a little creepy."
+150,Personalized,2.93,1.67,Bachelor’s degree,Yes,"This was useful, but I worry about how it knew my interests."
+151,Personalized,4.18,3.58,High school,Yes,The post was interesting and convincing.
+152,Personalized,3.56,3.35,Some college,Yes,"It was clear and relevant, although somewhat intrusive."
+153,Personalized,4.23,4.17,High school,No,I felt more engaged because the message related to me.
+154,Personalized,3.44,4.29,Bachelor’s degree,No,I enjoyed this post. It was very helpful.
+155,Personalized,3.62,2.82,High school,No,The personalized approach seemed manipulative.
+156,Personalized,3.69,1.98,Bachelor’s degree,No,It caught my attention but made me uncomfortable.
+157,Personalized,2.11,3.03,Graduate degree,No,This was informative and felt directly relevant.
+158,Personalized,3.51,3.0,High school,No,I liked the content but not the personalized tone.
+159,Personalized,4.28,5.0,Graduate degree,Yes,I was not convinced even though the topic fit my interests.
+160,Personalized,3.21,3.46,Graduate degree,No,This post seemed thoughtful and easy to understand.
+161,Personalized,3.68,2.16,Bachelor’s degree,No,I appreciated the tailored explanation.
+162,Personalized,3.35,3.85,Graduate degree,No,"The message was helpful, though I remain skeptical."
+163,Personalized,2.73,3.51,Some college,No,The message felt relevant to my interests and easy to follow.
+164,Personalized,2.81,2.6,High school,Yes,I liked how the post spoke to my interests.
+165,Personalized,4.09,4.52,Some college,Yes,This felt personal and genuinely helpful.
+166,Personalized,3.47,3.95,High school,Yes,The tailored message made me feel understood.
+167,Personalized,2.66,2.14,Some college,Yes,"I liked the details, but the targeting felt a little creepy."
+168,Personalized,3.11,2.39,Graduate degree,Yes,"This was useful, but I worry about how it knew my interests."
+169,Personalized,4.0,4.47,High school,No,The post was interesting and convincing.
+170,Personalized,5.0,3.9,Bachelor’s degree,No,"It was clear and relevant, although somewhat intrusive."
+171,Personalized,4.52,3.38,Bachelor’s degree,No,I felt more engaged because the message related to me.
+172,Personalized,3.29,3.94,Some college,Yes,I enjoyed this post. It was very helpful.
+173,Personalized,3.7,3.38,Bachelor’s degree,No,The personalized approach seemed manipulative.
+174,Personalized,3.41,2.97,Some college,No,It caught my attention but made me uncomfortable.
+175,Personalized,2.08,2.36,Some college,Yes,This was informative and felt directly relevant.
+176,Personalized,3.95,3.29,Bachelor’s degree,No,I liked the content but not the personalized tone.
+177,Personalized,3.52,4.13,Bachelor’s degree,Yes,I was not convinced even though the topic fit my interests.
+178,Personalized,1.9,3.11,Bachelor’s degree,Yes,This post seemed thoughtful and easy to understand.
+179,Personalized,3.28,2.72,Bachelor’s degree,Yes,I appreciated the tailored explanation.
+180,Personalized,3.41,3.1,Bachelor’s degree,No,"The message was helpful, though I remain skeptical."
