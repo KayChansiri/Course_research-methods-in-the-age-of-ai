@@ -211,11 +211,38 @@ Work with your group to examine a communication dataset, conduct an assigned sta
 
 [Open Week 13 Day 2 Lab Instructions and Group Colab Notebooks](week-13-day-2-stats-zoom-lab.md){ .md-button .md-button--primary }
 
-### Week 14 — Computational Text Analysis and Sentiment Classification
+## Week 14 — Computational Text Analysis & Sentiment Classification
 
-**Day 1 and 2 | Course instruction — no separate lab or Colab notebook currently linked on this page**
+### Day 1— Computational Text Analysis
 
-We examine computational approaches to text data and sentiment classification. If additional notebooks or activities are assigned, links and instructions will be communicated through Blackboard.
+In this lab, we will explore how computational methods can help researchers analyze written responses. Building on our Block 3 experimental dataset, we will practice text preprocessing, word frequency counts, and keyword analysis using Python.
+
+**Google Colab Notebook:** [Open November 17 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov17_Computational_Text_Analysis_Colab.ipynb)
+
+**What you will learn:**
+- Prepare open-ended survey responses for computational analysis.
+- Identify frequently occurring words and keywords.
+- Interpret text patterns in the context of communication research.
+- Understand how computational text analysis connects to research questions and measurement.
+
+### Day 2  — Sentiment Classification
+
+In this lab, we will learn how researchers classify written responses as positive, negative, or neutral using computational methods. We will compare human judgments with automated sentiment classification and connect the findings to statistical analyses from Block 3.
+
+**Google Colab Notebook:** [Open November 19 Lab](https://colab.research.google.com/github/kaychansiri/research-methods-in-the-age-of-ai/blob/main/notebooks/Nov19_Sentiment_Classification_Colab.ipynb)
+
+**What you will learn:**
+- Understand sentiment classification and its applications in mass communication research.
+- Compare rule-based sentiment analysis with a pretrained AI classifier.
+- Evaluate AI-generated classifications against human judgment.
+- Examine relationships between experimental message conditions and sentiment using statistical tests.
+
+### Practice Dataset
+
+Both labs use the same synthetic experimental dataset, extending our Block 3 example with open-ended survey responses.
+
+The dataset is loaded directly from our course GitHub repository. No manual download or upload is required.
+
 
 ### Week 15 — Thanksgiving Recess
 
