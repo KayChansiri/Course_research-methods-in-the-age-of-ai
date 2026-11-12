@@ -88,5 +88,6 @@ Course materials are released progressively and may be updated as the semester d
     Computational text analytics
     
     [Session 1 slides](week-1401.pdf)
+    [Session 1 slides](week-1402.pdf)
 
 </div>
