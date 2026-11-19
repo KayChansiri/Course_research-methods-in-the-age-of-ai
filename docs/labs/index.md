@@ -272,6 +272,11 @@ Project consultation and preparation for the final stakeholder presentation. Fol
 Groups present and interpret their findings during the scheduled final examination period. See Blackboard for presentation instructions and assessment details.
 
 ---
+## Final Project — Group Data & Colab
+
+[Access your group's dataset, Colab notebook, and analysis instructions](final-project.md)
+
+---
 
 ## Using These Materials
 
