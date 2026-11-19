@@ -18,12 +18,12 @@ All datasets below are **synthetic, fictional instructional data**. They do not 
 
 | Group and context | Data | Colab notebook | Study type / rows |
 |---|---|---|---|
-| **1. Journalism and News Engagement** | [Download CSV](../assets/data/group01_news_engagement.csv) | [Download starter notebook](../assets/notebooks/group01_starter.ipynb) | Observational content analysis of fictional news stories (187 rows) |
-| **2. Sports Broadcasting and Gambling Content** | [Download CSV](../assets/data/group02_sports_gambling.csv) | [Download starter notebook](../assets/notebooks/group02_starter.ipynb) | Simulated randomized two-condition viewing experiment (203 rows) |
-| **3. Advertising and Consumer Behavior** | [Download CSV](../assets/data/group03_graduation_photographer.csv) | [Download starter notebook](../assets/notebooks/group03_starter.ipynb) | Simulated cross-sectional survey of fictional USC students making a hypothetical photographer choice (176 rows) |
-| **4. Social Media and Audience Engagement** | [Download CSV](../assets/data/group04_ai_social_content.csv) | [Download starter notebook](../assets/notebooks/group04_starter.ipynb) | Simulated randomized two-condition experiment (192 rows) |
-| **5. Social Media and Journalism** | [Download CSV](../assets/data/group05_tiktok_news.csv) | [Download starter notebook](../assets/notebooks/group05_starter.ipynb) | Simulated randomized two-condition news-format experiment (217 rows) |
-| **6. Advertising and Consumer Trust** | [Download CSV](../assets/data/group06_influencer_advertising.csv) | [Download starter notebook](../assets/notebooks/group06_starter.ipynb) | Simulated randomized two-condition advertising experiment (231 rows) |
+| **1. Journalism and News Engagement** | [Download CSV](assets/data/group01_news_engagement.csv) | [Download starter notebook](assets/notebooks/group01_starter.ipynb) | Observational content analysis of fictional news stories (187 rows) |
+| **2. Sports Broadcasting and Gambling Content** | [Download CSV](assets/data/group02_sports_gambling.csv) | [Download starter notebook](assets/notebooks/group02_starter.ipynb) | Simulated randomized two-condition viewing experiment (203 rows) |
+| **3. Advertising and Consumer Behavior** | [Download CSV](assets/data/group03_graduation_photographer.csv) | [Download starter notebook](assets/notebooks/group03_starter.ipynb) | Simulated cross-sectional survey of fictional USC students making a hypothetical photographer choice (176 rows) |
+| **4. Social Media and Audience Engagement** | [Download CSV](assets/data/group04_ai_social_content.csv) | [Download starter notebook](assets/notebooks/group04_starter.ipynb) | Simulated randomized two-condition experiment (192 rows) |
+| **5. Social Media and Journalism** | [Download CSV](assets/data/group05_tiktok_news.csv) | [Download starter notebook](assets/notebooks/group05_starter.ipynb) | Simulated randomized two-condition news-format experiment (217 rows) |
+| **6. Advertising and Consumer Trust** | [Download CSV](assets/data/group06_influencer_advertising.csv) | [Download starter notebook](assets/notebooks/group06_starter.ipynb) | Simulated randomized two-condition advertising experiment (231 rows) |
 
 ## What you must do
 
