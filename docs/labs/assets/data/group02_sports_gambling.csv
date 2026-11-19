@@ -1,0 +1,204 @@
+participant_id,condition,age,sports_viewing_hours,enjoyment,broadcast_credibility,would_watch_again,open_response
+S038,Gambling content,18,4.7,3.7,4.6,No,The broadcast still felt entertaining overall. I liked the presentation.
+S191,No gambling content,21,1.9,5.5,5.0,No,I was unsure whether to trust the commentary. It could be more specific.
+S018,Gambling content,28,5.0,3.4,5.7,No,The broadcast still felt entertaining overall.
+S063,No gambling content,19,11.1,4.8,4.1,Yes,I was unsure whether to trust the commentary.
+S090, Gambling content ,24,14.5,3.7,5.9,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S164,Gambling content,26,1.2,4.2,4.4,No,The broadcast still felt entertaining overall. I liked the presentation.
+S178,Gambling content,21,6.1,,3.9,No,The ads interrupted the flow of the game for me.
+S133,No gambling content,18,12.4,5.0,5.5,Yes,I was unsure whether to trust the commentary.
+S121,No gambling content,29,8.6,3.2,5.0,No,The broadcast still felt entertaining overall.
+S171,No gambling content,26,10.5,5.8,5.8,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S070,Gambling content,26,13.3,4.3,3.4,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S195,No gambling content,23,1.1,5.3,5.3,No,The ads interrupted the flow of the game for me.
+S189,No gambling content,22,9.9,5.4,4.8,No,The broadcast still felt entertaining overall. I liked the presentation.
+S029,No gambling content,27,4.7,5.8,5.2,No,The broadcast still felt entertaining overall.
+S001,No gambling content,18,7.9,3.5,5.1,No,The ads interrupted the flow of the game for me. I liked the presentation.
+S087,No gambling content,23,9.0,3.4,4.3,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S077,No gambling content,18,7.9,4.8,5.6,Yes,The ads interrupted the flow of the game for me.
+S131,No gambling content,29,9.3,5.4,4.3,Yes,The broadcast still felt entertaining overall. I still have questions.
+S150,Gambling content,20,10.3,5.9,4.2,No,The broadcast still felt entertaining overall. I liked the presentation.
+S181,No gambling content,22,8.9,4.5,5.9,Yes,The broadcast still felt entertaining overall.
+S005,No gambling content,18,13.6,6.5,4.9,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S136,Gambling content,26,13.9,4.6,3.7,No,The ads interrupted the flow of the game for me. It could be more specific.
+S015,No gambling content,24,14.2,6.1,5.7,No,I was unsure whether to trust the commentary. I liked the presentation.
+S069,No gambling content,18,4.2,5.6,5.2,Yes,I was unsure whether to trust the commentary. I still have questions.
+S159,No gambling content,29,12.4,5.8,5.5,Yes,I was unsure whether to trust the commentary. I still have questions.
+S082,Gambling content,19,4.4,3.0,2.8,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S004,Gambling content,22,7.1,,4.6,No,The ads interrupted the flow of the game for me. I still have questions.
+S135,No gambling content,27,2.3,4.2,4.2,No,I was unsure whether to trust the commentary. I liked the presentation.
+S084,Gambling content,29,9.1,5.5,4.3,Yes,The broadcast still felt entertaining overall.
+S167,No gambling content,23,14.4,5.7,6.7,Yes,The ads interrupted the flow of the game for me.
+S073,No gambling content,26,7.1,5.5,6.0,No,The ads interrupted the flow of the game for me. It could be more specific.
+S032,Gambling content,24,7.4,5.4,4.1,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S177,No gambling content,26,8.3,6.2,3.8,No,The ads interrupted the flow of the game for me. I still have questions.
+S067,No gambling content,23,10.0,3.6,6.5,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S199,No gambling content,25,2.9,5.0,4.6,No,I was unsure whether to trust the commentary. I still have questions.
+S193,No gambling content,21,9.3,3.1,5.3,No,The broadcast still felt entertaining overall. It could be more specific.
+S039,No gambling content,19,1.2,,5.6,Yes,The broadcast still felt entertaining overall. I still have questions.
+S066,Gambling content,19,8.5,4.8,3.7,No,The broadcast still felt entertaining overall. I liked the presentation.
+S089,No gambling content,26,9.6,5.7,5.0,No,The ads interrupted the flow of the game for me. It could be more specific.
+S076,Gambling content,20,8.1,4.3,3.9,No,The broadcast still felt entertaining overall. I still have questions.
+S098,Gambling content,23,1.2,3.9,3.9,No,The broadcast still felt entertaining overall. I liked the presentation.
+S132,Gambling content,18,6.3,4.8,4.7,Yes,I was unsure whether to trust the commentary.
+S075,No gambling content,29,8.0,5.5,5.4,Yes,The broadcast still felt entertaining overall. I still have questions.
+S201,No gambling content,21,10.5,4.2,5.5,Yes,The ads interrupted the flow of the game for me.
+S115,No gambling content,27,14.8,5.8,6.3,No,I was unsure whether to trust the commentary. It could be more specific.
+S101,No gambling content,19,14.9,3.5,4.7,No,The broadcast still felt entertaining overall.
+S110,Gambling content,25,1.0,5.7,4.3,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S055,No gambling content,19,12.5,4.7,4.9,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S061,No gambling content,27,10.4,4.2,6.3,Yes,The ads interrupted the flow of the game for me.
+S022,Gambling content,25,1.2,4.6,4.4,No,The broadcast still felt entertaining overall. It could be more specific.
+S100,Gambling content,25,14.8,3.3,3.9,Yes,The broadcast still felt entertaining overall.
+S102,Gambling content,23,5.5,6.2,3.9,No,The broadcast still felt entertaining overall. I liked the presentation.
+S027,No gambling content,20,8.2,4.7,4.9,Yes,I was unsure whether to trust the commentary. I still have questions.
+S168,Gambling content,24,7.0,7,4.9,No,The ads interrupted the flow of the game for me.
+S145,No gambling content,28,12.1,4.1,5.3,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S120,Gambling content,27,11.0,5.8,2.9,No,The broadcast still felt entertaining overall.
+S086,Gambling content,25,14.8,5.5,5.4,No,I was unsure whether to trust the commentary. I still have questions.
+S118,Gambling content,25,4.0,4.1,3.7,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S010,Gambling content,18,13.1,5.9,4.1,No,I was unsure whether to trust the commentary. It could be more specific.
+S065,No gambling content,25,2.3,6.1,4.3,No,I was unsure whether to trust the commentary.
+S097,No gambling content,27,8.4,5.1,5.6,Yes,The broadcast still felt entertaining overall.
+S080,Gambling content,25,2.7,4.7,3.6,No,The ads interrupted the flow of the game for me. I still have questions.
+S200,Gambling content,19,6.2,5.5,3.2,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S057,No gambling content,19,11.6,6.5,5.6,No,The broadcast still felt entertaining overall. It could be more specific.
+S007,No gambling content,29,3.7,5.0,4.2,No,The ads interrupted the flow of the game for me.
+S064,Gambling content,25,2.1,4.8,3.7,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S129,No gambling content,25,8.3,3.8,5.1,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S126,Gambling content,18,6.1,4.0,5.9,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S045,No gambling content,19,11.0,5.5,3.9,No,The ads interrupted the flow of the game for me. It could be more specific.
+S134,Gambling content,28,13.7,5.0,4.7,No,The broadcast still felt entertaining overall.
+S047,No gambling content,22,5.6,6.4,5.3,Yes,
+S093,No gambling content,28,11.8,4.7,4.1,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S149,No gambling content,21,7.7,5.1,7,No,The broadcast still felt entertaining overall. It could be more specific.
+S128,Gambling content,25,7.3,5.6,5.2,No,The broadcast still felt entertaining overall. I still have questions.
+S071,No gambling content,22,8.3,3.6,6.2,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S035,No gambling content,25,8.7,6.3,4.8,Yes,The broadcast still felt entertaining overall.
+S019,No gambling content,23,2.6,6.1,5.0,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S031,No gambling content,26,6.1,3.7,5.9,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S111,No gambling content,20,5.5,5.5,5.7,No,The broadcast still felt entertaining overall.
+S023,No gambling content,22,5.4,4.7,5.3,No,I was unsure whether to trust the commentary. I liked the presentation.
+S174,Gambling content,22,2.3,3.1,4.8,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S105,No gambling content,19,2.7,4.8,5.2,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S161,No gambling content,24,10.0,6.4,5.4,No,The broadcast still felt entertaining overall. I liked the presentation.
+S119,No gambling content,23,14.9,4.8,4.7,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S156,Gambling content,24,9.0,3.9,2.1,No,The ads interrupted the flow of the game for me.
+S056,Gambling content,19,11.1,5.2,5.2,No,The ads interrupted the flow of the game for me. I liked the presentation.
+S158,Gambling content,18,3.8,4.4,2.1,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S113,No gambling content,21,11.2,5.3,5.5,Yes,The ads interrupted the flow of the game for me.
+S103,No gambling content,20,1.7,5.9,4.9,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S028,Gambling content,20,13.1,5.0,2.3,No,I was unsure whether to trust the commentary. I liked the presentation.
+S182,Gambling content,27,5.7,4.7,4.8,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S155,No gambling content,19,3.6,4.4,6.4,No,I was unsure whether to trust the commentary. I liked the presentation.
+S020,Gambling content,27,1.8,5.5,5.8,No,The ads interrupted the flow of the game for me. It could be more specific.
+S011,No gambling content,24,8.3,5.5,5.3,No,The broadcast still felt entertaining overall.
+S048,Gambling content,19,1.4,5.0,5.2,Yes,I was unsure whether to trust the commentary. I still have questions.
+S095,No gambling content,28,8.2,3.8,5.0,Yes,I was unsure whether to trust the commentary. I still have questions.
+S049,No gambling content,26,13.6,6.2,4.5,No,The broadcast still felt entertaining overall.
+S009,No gambling content,25,11.2,5.7,5.6,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S060,Gambling content,26,3.6,5.4,3.5,No,The ads interrupted the flow of the game for me. It could be more specific.
+S106,Gambling content,19,10.0,4.0,3.2,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S002,Gambling content,25,12.8,5.6,4.8,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S041,No gambling content,23,7.3,4.8,6.6,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S165, No gambling content ,29,14.2,5.0,5.5,No,I was unsure whether to trust the commentary. It could be more specific.
+S037,No gambling content,27,9.7,5.2,3.6,Yes,I was unsure whether to trust the commentary. I still have questions.
+S137,No gambling content,27,13.4,3.8,4.9,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S081,No gambling content,18,4.2,5.7,5.7,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S054,Gambling content,19,2.0,3.8,3.8,No,I was unsure whether to trust the commentary.
+S051,No gambling content,25,4.8,7,4.2,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S044,Gambling content,26,2.0,5.0,3.7,No,The ads interrupted the flow of the game for me. It could be more specific.
+S052,Gambling content,27,6.4,5.5,2.8,Yes,
+S152,Gambling content,29,5.3,5.1,3.8,Yes,The ads interrupted the flow of the game for me. I liked the presentation.
+S180,Gambling content,28,12.9,2.6,5.4,No,The ads interrupted the flow of the game for me. I still have questions.
+S013,No gambling content,23,6.5,5.8,4.8,Yes,The broadcast still felt entertaining overall. It could be more specific.
+S036,Gambling content,26,13.5,5.2,2.9,No,I was unsure whether to trust the commentary.
+S003,No gambling content,24,4.5,6.7,4.9,Yes,The broadcast still felt entertaining overall.
+S117,No gambling content,29,14.1,5.0,5.6,No,The broadcast still felt entertaining overall. It could be more specific.
+S197,No gambling content,23,7.0,3.4,4.3,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S083,No gambling content,20,10.8,4.1,6.1,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S006,Gambling content,18,5.8,4.2,5.2,No,The ads interrupted the flow of the game for me. It could be more specific.
+S187,No gambling content,22,10.1,5.0,4.2,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S016,Gambling content,26,14.6,6.3,3.4,No,I was unsure whether to trust the commentary. It could be more specific.
+S188,Gambling content,26,8.7,4.5,4.1,No,The broadcast still felt entertaining overall. I liked the presentation.
+S122,Gambling content,21,5.4,4.9,4.4,No,I was unsure whether to trust the commentary. I still have questions.
+S068,Gambling content,23,12.4,4.2,5.3,No,The ads interrupted the flow of the game for me.
+S112,Gambling content,29,12.1,5.4,4.7,Yes,The broadcast still felt entertaining overall.
+S141,No gambling content,23,13.0,4.5,4.9,Yes,The broadcast still felt entertaining overall.
+S025,No gambling content,29,12.8,4.4,5.5,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S186,Gambling content,27,11.9,5.0,3.7,No,The broadcast still felt entertaining overall. It could be more specific.
+S138,Gambling content,21,3.7,3.7,5.0,No,The broadcast still felt entertaining overall.
+S108,Gambling content,26,5.4,6.4,3.6,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S196,Gambling content,25,3.0,4.6,3.8,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S107,No gambling content,23,13.3,3.9,3.6,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S179,No gambling content,23,2.6,7.0,6.8,No,The ads interrupted the flow of the game for me. I still have questions.
+S091,No gambling content,19,2.6,5.9,4.8,Yes,The ads interrupted the flow of the game for me. I liked the presentation.
+S170,Gambling content,25,1.2,6.1,2.9,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S144,Gambling content,28,6.5,5.5,4.3,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S190,Gambling content,19,5.8,4.7,5.0,No,I was unsure whether to trust the commentary. I still have questions.
+S109,No gambling content,21,7.9,4.4,4.9,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S184,Gambling content,18,11.9,3.3,3.9,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S021,No gambling content,20,12.4,5.6,3.2,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S085,No gambling content,24,9.0,4.8,5.0,Yes,I was unsure whether to trust the commentary.
+S017,No gambling content,24,14.5,4.4,6.7,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S139,No gambling content,18,7.9,6.1,4.3,Yes,I was unsure whether to trust the commentary. I still have questions.
+S092,Gambling content,19,10.1,1.9,3.5,Yes,I was unsure whether to trust the commentary.
+S088,Gambling content,18,11.1,4.1,4.3,No,The broadcast still felt entertaining overall.
+S183,No gambling content,28,12.6,4.6,6.2,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S194,Gambling content,22,1.1,6.6,3.6,No,The ads interrupted the flow of the game for me. It could be more specific.
+S173,No gambling content,24,11.8,4.3,5.0,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S058,Gambling content,23,4.3,3.7,3.7,No,The broadcast still felt entertaining overall. I liked the presentation.
+S185,No gambling content,26,13.8,4.7,4.2,Yes,I was unsure whether to trust the commentary. I still have questions.
+S160,Gambling content,21,7.0,4.4,5.8,Yes,I was unsure whether to trust the commentary. I still have questions.
+S124,Gambling content,23,10.3,3.1,5.8,No,I was unsure whether to trust the commentary.
+S172,Gambling content,19,10.0,5.1,3.2,Yes,The broadcast still felt entertaining overall.
+S116,Gambling content,28,9.8,4.1,2.9,Yes,The ads interrupted the flow of the game for me.
+S012,Gambling content,26,2.3,4.7,4.3,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S143,No gambling content,18,4.6,5.4,4.4,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S154,Gambling content,26,1.0,6.2,4.3,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S078,Gambling content,19,11.3,3.9,3.7,Yes,I was unsure whether to trust the commentary.
+S162,Gambling content,25,13.6,3.6,4.9,No,The broadcast still felt entertaining overall. It could be more specific.
+S024,Gambling content,21,7.1,4.1,4.5,Yes,The ads interrupted the flow of the game for me. It could be more specific.
+S153,No gambling content,24,8.4,3.9,5.8,No,I was unsure whether to trust the commentary. It could be more specific.
+S146,Gambling content,22,8.0,5.4,5.2,No,The ads interrupted the flow of the game for me.
+S151,No gambling content,20,6.9,4.3,5.6,Yes,I was unsure whether to trust the commentary. I still have questions.
+S008,Gambling content,25,7.7,4.1,4.7,Yes,The ads interrupted the flow of the game for me. I liked the presentation.
+S026,Gambling content,23,3.6,3.7,3.3,No,I was unsure whether to trust the commentary.
+S130,Gambling content,20,7.2,4.7,5.3,No,The broadcast still felt entertaining overall. I still have questions.
+S072,Gambling content,21,3.2,7,5.5,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S147,No gambling content,23,5.5,4.9,4.5,No,The ads interrupted the flow of the game for me.
+S059,No gambling content,21,7.2,5.3,6.6,No,The broadcast still felt entertaining overall. I still have questions.
+S079,No gambling content,25,7.6,2.3,4.8,Yes,I was unsure whether to trust the commentary.
+S203,No gambling content,18,2.9,6.4,6.6,No,The ads interrupted the flow of the game for me.
+S163,No gambling content,27,1.5,5.0,4.7,No,The broadcast still felt entertaining overall. I still have questions.
+S053,No gambling content,28,13.0,4.2,3.4,Yes,The broadcast still felt entertaining overall. I still have questions.
+S169,No gambling content,22,14.4,3.6,6.4,Yes,The broadcast still felt entertaining overall. I liked the presentation.
+S094,Gambling content,29,11.3,3.2,3.9,No,The ads interrupted the flow of the game for me. I liked the presentation.
+S104,Gambling content,20,9.8,5.6,5.5,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S096,Gambling content,25,6.3,5.2,4.8,Yes,I was unsure whether to trust the commentary. I still have questions.
+S099,No gambling content,23,5.3,5.8,2.6,No,The ads interrupted the flow of the game for me. It could be more specific.
+S176,Gambling content,18,4.3,5.6,4.3,No,The broadcast still felt entertaining overall. I still have questions.
+S033,No gambling content,23,9.7,4.8,4.2,Yes,The broadcast still felt entertaining overall. I still have questions.
+S142,Gambling content,29,9.3,5.3,4.3,No,I was unsure whether to trust the commentary.
+S014,Gambling content,19,13.7,4.3,4.6,Yes,I was unsure whether to trust the commentary.
+S123,No gambling content,23,14.2,5.8,5.4,No,I was unsure whether to trust the commentary. I still have questions.
+S046,Gambling content,20,2.8,4.9,3.0,No,The ads interrupted the flow of the game for me. I liked the presentation.
+S140,Gambling content,25,2.0,3.7,5.9,No,The broadcast still felt entertaining overall. I still have questions.
+S125,No gambling content,25,6.3,5.0,5.4,No,I was unsure whether to trust the commentary.
+S192,Gambling content,25,13.0,3.9,4.4,No,I was unsure whether to trust the commentary. I still have questions.
+S042,Gambling content,26,9.0,3.5,3.0,Yes,The broadcast still felt entertaining overall. I still have questions.
+S157,No gambling content,19,14.7,6.2,5.7,Yes,I was unsure whether to trust the commentary. I liked the presentation.
+S050,Gambling content,24,6.0,4.8,5.7,No,I was unsure whether to trust the commentary. I liked the presentation.
+S114,Gambling content,24,10.2,4.8,4.9,No,The ads interrupted the flow of the game for me. It could be more specific.
+S175,No gambling content,18,13.0,4.6,6.0,No,The ads interrupted the flow of the game for me. I liked the presentation.
+S034,Gambling content,18,8.5,3.4,4.5,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S062,Gambling content,18,11.9,3.8,4.1,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S166,Gambling content,18,6.3,3.7,4.0,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S074,Gambling content,29,9.4,3.9,3.7,No,I was unsure whether to trust the commentary. I still have questions.
+S030,Gambling content,18,2.0,4.1,5.4,No,The broadcast still felt entertaining overall.
+S198,Gambling content,25,9.1,3.9,5.1,No,The ads interrupted the flow of the game for me.
+S040,Gambling content,19,12.6,5.0,3.8,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S148,Gambling content,29,10.3,5.5,4.6,Yes,I was unsure whether to trust the commentary. It could be more specific.
+S043,No gambling content,26,4.8,4.2,3.9,No,The broadcast still felt entertaining overall. I still have questions.
+S127,No gambling content,24,2.2,4.1,5.1,Yes,The ads interrupted the flow of the game for me. I still have questions.
+S202,Gambling content,28,13.1,3.7,5.2,Yes,I was unsure whether to trust the commentary. I still have questions.

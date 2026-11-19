@@ -1,0 +1,188 @@
+article_id,news_topic,publisher_type,hours_online,word_count,views,headline,editor_note
+N001,Politics,Regional website,76,396,520,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N002,Crime,Local website,108,927,1792,New developments in public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N003,Politics,Local website,49,761,570,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N004,Politics,National website,109,479,1445,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N005,Politics,National website,27,971,370,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I still have questions.
+N006,Crime,Regional website,52,515,190,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N007,Politics,Regional website,24,1098,405,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N008,Crime,National website,102,643,396,New developments in public safety report,"The headline caught my attention, but I wanted more details."
+N009,Politics,Local website,69,914,1219,Community reactions to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N010,Crime,National website,93,1072,1007,Community reactions to public safety report,The article offered enough context for me to keep reading. I still have questions.
+N011,Crime,National website,29,462,1182,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N012,Crime,Local website,69,498,1107,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details."
+N013,Crime,National website,55,1039,3566,Local officials respond to public safety report,The article offered enough context for me to keep reading. I still have questions.
+N014,Crime,Regional website,111,930,535,Community reactions to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N015,Politics,Local website,112,846,618,New developments in election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N016,Crime,National website,117,838,1791,New developments in public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N017,Politics,National website,32,687,484,New developments in election policy debate,"The headline caught my attention, but I wanted more details."
+N018,Crime,Regional website,63,809,1269,Local officials respond to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N019,Politics,Regional website,56,586,443,New developments in election policy debate,The reporting was easy to follow and seemed useful.
+N020,Crime,Regional website,83,343,248,Local officials respond to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N021,Crime,Regional website,46,425,2158,Community reactions to public safety report,The reporting was easy to follow and seemed useful.
+N022,Crime,Local website,88,836,3657,Community reactions to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N023,Politics,Regional website,48,381,1391,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N024,Crime,Local website,96,1087,220,New developments in public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N025,Politics,National website,58,649,1292,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I still have questions.
+N026,Crime,Regional website,65,648,646,New developments in public safety report,"The headline caught my attention, but I wanted more details. I still have questions."
+N027,Politics,National website,45,646,415,Community reactions to election policy debate,The article offered enough context for me to keep reading.
+N028,Crime,National website,69,599,1636,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N029,Politics,Regional website,51,650,1000,Community reactions to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N030,Crime,National website,80,435,2627,New developments in public safety report,The reporting was easy to follow and seemed useful. I liked the presentation.
+N031,Crime,Regional website,40,616,1020,New developments in public safety report,"The headline caught my attention, but I wanted more details."
+N032,Politics,Regional website,91,898,1580,New developments in election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N033,Politics,National website,45,451,970,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N034,Crime,Regional website,26,888,575,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N035,Politics,National website,105,880,968,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful.
+N036,Crime,National website,29,335,1164,New developments in public safety report,The reporting was easy to follow and seemed useful.
+N037,Crime,National website,40,774,1528,New developments in public safety report,The reporting was easy to follow and seemed useful.
+N038,Politics,Regional website,107,322,1374,Community reactions to election policy debate,The reporting was easy to follow and seemed useful.
+N039,Politics,National website,109,884,656,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N040,Crime,National website,49,312,1041,Community reactions to public safety report,The reporting was easy to follow and seemed useful.
+N041,Politics,Regional website,79,475,,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N042,Politics,National website,119,642,948,New developments in election policy debate,The article offered enough context for me to keep reading.
+N043,Politics,National website,101,740,1096,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. It could be more specific."
+N044,Politics,Local website,72,399,1320,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N045,Crime,Regional website,63,422,1635,New developments in public safety report,The article offered enough context for me to keep reading.
+N046,Crime,Local website,53,974,1347,New developments in public safety report,The article offered enough context for me to keep reading. I still have questions.
+N047,Crime,Local website,40,717,2082,Community reactions to public safety report,"The headline caught my attention, but I wanted more details. I still have questions."
+N048,Crime,National website,69,1006,2260,Local officials respond to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N049,Politics,National website,118,1054,2592,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N050,Crime,National website,50,528,,New developments in public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N051,Politics,Regional website,96,615,1572,New developments in election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N052,Crime,Local website,51,1062,646,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I still have questions."
+N053,Crime,Local website,114,730,808,New developments in public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N054,Crime,Local website,116,630,2609,New developments in public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N055,Politics,Local website,52,932,819,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N056,Politics,National website,70,625,2624,New developments in election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N057,Politics,Local website,65,550,505,Community reactions to election policy debate,The reporting was easy to follow and seemed useful.
+N058,Politics,Local website,101,641,339,Local officials respond to election policy debate,The article offered enough context for me to keep reading.
+N059,Crime,National website,47,412,951,New developments in public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N060,Crime,Regional website,63,411,1950,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N061,Crime,Regional website,115,778,1120,Local officials respond to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N062,Crime,Regional website,89,701,2123,New developments in public safety report,The article offered enough context for me to keep reading. I still have questions.
+N063,Crime,National website,66,489,1477,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N064,Crime,Local website,95,449,703,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N065,Politics,Local website,81,948,572,Community reactions to election policy debate,The article offered enough context for me to keep reading.
+N066,Politics,National website,77,702,1370,New developments in election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N067,Crime,Regional website,116,715,1458,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N068,Politics,National website,110,959,997,Community reactions to election policy debate,The article offered enough context for me to keep reading. I still have questions.
+N069,Crime,Local website,97,657,1043,Community reactions to public safety report,The article offered enough context for me to keep reading. I still have questions.
+N070,Politics,Local website,70,928,2038,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N071,Politics,Local website,83,487,392,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N072,Crime,National website,116,1025,1010,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. It could be more specific.
+N073,Politics,Local website,82,425,875,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details."
+N074,Crime,National website,50,468,645,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N075,Crime,National website,52,535,935,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. It could be more specific.
+N076,Politics,Regional website,112,886,795,Community reactions to election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N077,Crime,Local website,37,511,482,New developments in public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N078,Politics,Regional website,48,371,750,New developments in election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N079,Politics,Local website,81,377,1007,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N080,Crime,Regional website,70,322,339,Local officials respond to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N081, Crime ,Regional website,48,534,302,Local officials respond to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N082,Crime,Regional website,54,1076,4032,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details."
+N083,Politics,Regional website,47,696,275,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N084,Crime,Regional website,86,381,878,Community reactions to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N085,Crime,National website,50,302,1569,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N086,Crime,Regional website,26,833,269,Community reactions to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N087,Crime,Regional website,85,793,1200,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N088,Politics,Regional website,101,474,2623,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details. It could be more specific."
+N089,Politics,Local website,97,1028,1687,New developments in election policy debate,The article offered enough context for me to keep reading.
+N090,Politics,Regional website,100,737,986,New developments in election policy debate,"The headline caught my attention, but I wanted more details. It could be more specific."
+N091,Politics,National website,72,557,412,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details."
+N092,Politics,National website,37,451,373,Community reactions to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N093,Politics,Regional website,93,314,1017,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N094,Crime,Local website,73,516,395,New developments in public safety report,The article offered enough context for me to keep reading. I still have questions.
+N095,Crime,National website,113,425,2082,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details."
+N096,Politics,Local website,33,825,861,Community reactions to election policy debate,The article offered enough context for me to keep reading. I still have questions.
+N097,Crime,National website,70,348,795,Community reactions to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N098,Crime,Regional website,40,942,1009,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details."
+N099,Crime,Regional website,68,306,1720,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N100,Crime,Regional website,109,601,1335,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N101,Politics,Regional website,82,520,997,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N102,Politics,National website,39,457,608,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N103,Politics,National website,76,318,639,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N104,Crime,Regional website,59,888,2207,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N105,Crime,Regional website,65,581,1465,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N106,Crime,Local website,112,1022,1392,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. It could be more specific.
+N107,Politics,National website,76,423,1812,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details."
+N108,Crime,Regional website,49,843,2987,Community reactions to public safety report,The reporting was easy to follow and seemed useful. I still have questions.
+N109,Politics,Regional website,119,681,569,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N110,Politics,Local website,60,895,974,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N111,Crime,Regional website,30,522,739,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. I still have questions.
+N112,Crime,Local website,94,456,1327,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N113,Politics,Local website,31,501,649,Community reactions to election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N114,Politics,Regional website,66,303,149,New developments in election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N115,Crime,National website,91,680,897,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N116,Crime,Regional website,29,280,1167,New developments in public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N117,Crime,Local website,93,278,2285,New developments in public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N118,Politics,National website,46,1048,378,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N119,Crime,Regional website,36,984,1238,Community reactions to public safety report,The reporting was easy to follow and seemed useful.
+N120,Crime,Local website,43,799,321,New developments in public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N121,Politics,National website,55,837,937,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N122,Crime,National website,84,1046,1023,New developments in public safety report,"The headline caught my attention, but I wanted more details."
+N123,Crime,National website,65,755,1546,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N124,Politics,National website,94,574,685,Local officials respond to election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N125,Politics,Regional website,68,473,359,New developments in election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N126,Politics,National website,114,486,774,New developments in election policy debate,"The headline caught my attention, but I wanted more details."
+N127,Crime,Local website,38,592,3055,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N128,Politics,National website,36,890,862,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N129,Crime,Local website,29,436,445,Local officials respond to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N130,Crime,Regional website,101,936,681,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N131,Politics,Local website,81,569,1111,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful.
+N132,Crime,National website,101,600,1052,Local officials respond to public safety report,The article offered enough context for me to keep reading.
+N133,Politics,National website,118,721,1746,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N134,Crime,National website,93,876,625,New developments in public safety report,The reporting was easy to follow and seemed useful. It could be more specific.
+N135,Crime,Regional website,63,618,1384,New developments in public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N136,Crime,Regional website,41,703,873,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N137,Crime,Local website,86,295,1226,New developments in public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N138,Politics,Regional website,77,1085,1477,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N139,Politics,National website,108,754,1457,New developments in election policy debate,The reporting was easy to follow and seemed useful.
+N140,Crime,National website,30,550,1724,Local officials respond to public safety report,The article offered enough context for me to keep reading.
+N141,Politics,Regional website,26,881,357,New developments in election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N142,Politics,Local website,109,1068,1692,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N143,Politics,Local website,97,293,1796,New developments in election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N144,Politics,Regional website,53,736,697,Community reactions to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N145,Crime,Regional website,92,718,5055,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. I still have questions.
+N146,Crime,Local website,107,1007,505,Local officials respond to public safety report,The reporting was easy to follow and seemed useful.
+N147,Politics,National website,100,294,426,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful.
+N148,Politics,Regional website,78,614,1332,Local officials respond to election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N149,Politics,Regional website,28,556,448,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N150,Politics,Regional website,60,459,373,Community reactions to election policy debate,"The headline caught my attention, but I wanted more details."
+N151,Politics,Regional website,25,792,1095,New developments in election policy debate,"The headline caught my attention, but I wanted more details. It could be more specific."
+N152,Crime,Local website,70,896,826,Community reactions to public safety report,
+N153,Politics,National website,115,970,598,New developments in election policy debate,The reporting was easy to follow and seemed useful. I still have questions.
+N154,Politics,Local website,119,419,1734,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N155,Politics,Local website,24,1011,877,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N156,Crime,National website,42,858,821,New developments in public safety report,"The headline caught my attention, but I wanted more details."
+N157,Politics,National website,42,1039,1957,Local officials respond to election policy debate,"The headline caught my attention, but I wanted more details."
+N158,Crime,Local website,104,602,4888,Local officials respond to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N159,Crime,Local website,58,572,1180,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N160,Politics,National website,37,525,1148,Local officials respond to election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N161,Politics,National website,34,906,429,New developments in election policy debate,The reporting was easy to follow and seemed useful. It could be more specific.
+N162,Politics,National website,65,867,1839,Community reactions to election policy debate,The reporting was easy to follow and seemed useful.
+N163,Crime,National website,72,1025,2116,Community reactions to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N164,Crime,Local website,37,272,716,Local officials respond to public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N165,Crime,National website,74,421,1947,Local officials respond to public safety report,The article offered enough context for me to keep reading. It could be more specific.
+N166,Crime,Local website,117,672,2975,Community reactions to public safety report,"The headline caught my attention, but I wanted more details."
+N167,Crime,Local website,77,1082,477,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."
+N168,Crime,National website,37,492,1229,Local officials respond to public safety report,The article offered enough context for me to keep reading.
+N169,Politics,Local website,64,633,2064,New developments in election policy debate,The article offered enough context for me to keep reading. I liked the presentation.
+N170,Crime,Regional website,111,930,868,Community reactions to public safety report,The reporting was easy to follow and seemed useful.
+N171,Politics,Local website,67,1024,881,New developments in election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N172,Politics,Regional website,68,860,692,Local officials respond to election policy debate,The article offered enough context for me to keep reading. It could be more specific.
+N173,Crime,National website,79,302,1774,New developments in public safety report,The article offered enough context for me to keep reading. I still have questions.
+N174,Crime,National website,85,884,,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N175, Crime ,Local website,52,446,647,Local officials respond to public safety report,"The headline caught my attention, but I wanted more details. I liked the presentation."
+N176,Crime,Local website,99,1042,822,New developments in public safety report,The reporting was easy to follow and seemed useful. I liked the presentation.
+N177,Crime,Local website,24,763,3989,Community reactions to public safety report,The reporting was easy to follow and seemed useful. I liked the presentation.
+N178,Politics,Local website,86,556,1248,Community reactions to election policy debate,The reporting was easy to follow and seemed useful.
+N179,Crime,Local website,90,777,1518,Community reactions to public safety report,The reporting was easy to follow and seemed useful. It could be more specific.
+N180,Crime,National website,38,1042,1755,Local officials respond to public safety report,The reporting was easy to follow and seemed useful. I still have questions.
+N181,Crime,National website,112,721,908,New developments in public safety report,The article offered enough context for me to keep reading. I liked the presentation.
+N182,Politics,Regional website,103,743,501,New developments in election policy debate,
+N183,Politics,Regional website,93,349,1689,New developments in election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N184,Politics,National website,113,974,667,New developments in election policy debate,The reporting was easy to follow and seemed useful. I liked the presentation.
+N185,Politics,Local website,67,532,290,New developments in election policy debate,"The headline caught my attention, but I wanted more details. I still have questions."
+N186,Crime,National website,96,505,789,New developments in public safety report,"The headline caught my attention, but I wanted more details. I still have questions."
+N187,Crime,Local website,28,387,342,New developments in public safety report,"The headline caught my attention, but I wanted more details. It could be more specific."

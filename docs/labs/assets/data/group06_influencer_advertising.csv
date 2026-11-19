@@ -1,0 +1,232 @@
+participant_id,ad_format,age,social_media_hours,brand_trust,purchase_intention,likely_to_click,open_response
+I226,Influencer-sponsored,22,1.3,5.3,4.5,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I001,Traditional ad,23,4.3,5.0,5.1,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I168,Influencer-sponsored,26,2.9,4.8,3.7,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I174,Influencer-sponsored,21,5.4,5.4,6.7,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I069,Traditional ad,22,7.3,4.7,5.7,No,I would look at independent reviews first. It could be more specific.
+I110,Influencer-sponsored,19,7.1,6.0,4.9,No,I would look at independent reviews first. I liked the presentation.
+I186,Influencer-sponsored,23,4.5,3.2,3.4,No,I would look at independent reviews first. It could be more specific.
+I228,Influencer-sponsored,20,4.8,4.5,3.5,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I193,Traditional ad,23,2.4,3.9,3.7,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I093,Traditional ad,20,3.2,3.4,3.3,No,I would look at independent reviews first. It could be more specific.
+I128,Influencer-sponsored,21,1.1,5.8,5.3,No,I would look at independent reviews first. It could be more specific.
+I046,Influencer-sponsored,23,4.8,5.7,4.7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I009,Traditional ad,21,5.9,5.0,4.8,No,I would look at independent reviews first. It could be more specific.
+I020,Influencer-sponsored,23,7.9,5.1,4.8,No,"The promotion was clear, but I am not ready to buy."
+I177,Traditional ad,18,7.5,5.6,6.4,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I078,Influencer-sponsored,25,7.0,5.9,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I169,Traditional ad,24,7.5,5.0,6.0,Yes,I would look at independent reviews first.
+I210,Influencer-sponsored,27,5.6,5.9,5.2,No,I would look at independent reviews first. I liked the presentation.
+I081,Traditional ad,22,5.5,6.1,5.2,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I007,Traditional ad,25,6.8,3.9,3.8,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I116,Influencer-sponsored,22,3.2,4.6,3.7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I023,Traditional ad,24,3.9,6.1,3.3,Yes,I would look at independent reviews first. It could be more specific.
+I112,Influencer-sponsored,19,5.6,4.1,4.9,Yes,I would look at independent reviews first. I still have questions.
+I043,Traditional ad,27,3.1,6.1,4.0,Yes,I would look at independent reviews first. It could be more specific.
+I160,Influencer-sponsored,22,3.0,4.7,2.6,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I189,Traditional ad,19,7.6,4.0,3.2,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I026,Influencer-sponsored,22,2.1,6.8,6.4,Yes,I would look at independent reviews first. I still have questions.
+I022,Influencer-sponsored,19,2.7,6.0,3.8,Yes,I would look at independent reviews first. I still have questions.
+I131,Traditional ad,27,1.9,6.0,5.0,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I049,Traditional ad,23,2.6,3.2,3.3,Yes,I would look at independent reviews first.
+I217,Traditional ad,19,2.6,5.4,3.8,Yes,"The promotion was clear, but I am not ready to buy."
+I145,Traditional ad,18,3.1,3.3,5.4,No,I would look at independent reviews first. I still have questions.
+I013,Traditional ad,27,7.6,4.4,5.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I206,Influencer-sponsored,25,8.4,3.6,3.6,Yes,I would look at independent reviews first. It could be more specific.
+I205,Traditional ad,24,2.4,5.2,3.5,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I101,Traditional ad,23,6.6,5.5,6.5,No,"The promotion was clear, but I am not ready to buy."
+I002,Influencer-sponsored,27,8.2,3.0,3.6,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I151,Traditional ad,23,2.1,4.1,6.6,No,I would look at independent reviews first. I still have questions.
+I138,Influencer-sponsored,23,4.1,5.1,5.6,Yes,I would look at independent reviews first. It could be more specific.
+I061,Traditional ad,18,4.7,3.6,2.9,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I166,Influencer-sponsored,18,5.8,6.2,4.6,Yes,I would look at independent reviews first. It could be more specific.
+I063,Traditional ad,27,4.0,6.8,5.8,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I032,Influencer-sponsored,22,7.1,5.9,6.2,No,I would look at independent reviews first. It could be more specific.
+I039,Traditional ad,21,5.1,5.1,4.6,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I204,Influencer-sponsored,20,4.0,5.4,5.8,No,"The promotion was clear, but I am not ready to buy."
+I130,Influencer-sponsored,22,6.9,5.5,4.6,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I208,Influencer-sponsored,20,7.4,5.0,4.6,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I150,Influencer-sponsored,24,8.5,3.1,3.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I211,Traditional ad,18,5.5,5.5,5.6,No,I would look at independent reviews first.
+I104,Influencer-sponsored,19,7.7,3.4,3.6,No,I would look at independent reviews first. I still have questions.
+I207,Traditional ad,19,3.8,4.2,4.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I149,Traditional ad,22,5.0,5.6,3.3,No,I would look at independent reviews first. I liked the presentation.
+I030,Influencer-sponsored,19,6.6,7,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I019,Traditional ad,27,5.8,4.4,4.2,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I221,Traditional ad,22,5.7,5.9,7,Yes,I would look at independent reviews first. It could be more specific.
+I003,Traditional ad,23,2.7,5.1,3.4,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I106,Influencer-sponsored,18,7.8,5.2,6.5,Yes,I would look at independent reviews first. I still have questions.
+I028,Influencer-sponsored,22,4.6,1.9,5.7,Yes,I would look at independent reviews first. I still have questions.
+I140,Influencer-sponsored,19,8.7,6.3,3.1,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I055,Traditional ad,26,7.6,5.0,4.7,Yes,I would look at independent reviews first.
+I141,Traditional ad,25,8.2,4.9,3.7,No,I would look at independent reviews first. It could be more specific.
+I012,Influencer-sponsored,21,3.5,3.9,4.3,Yes,I would look at independent reviews first. I still have questions.
+I180,Influencer-sponsored,22,8.4,2.5,1.7,Yes,I would look at independent reviews first. I liked the presentation.
+I201,Traditional ad,21,8.4,3.9,3.1,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I203,Traditional ad,27,3.9,4.9,4.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I027,Traditional ad,20,3.0,3.1,2.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I225,Traditional ad,21,3.7,3.8,3.4,No,I would look at independent reviews first.
+I036,Influencer-sponsored,26,7.7,5.3,4.2,No,I would look at independent reviews first. I still have questions.
+I117,Traditional ad,27,7.0,4.2,3.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I153,Traditional ad,22,7.3,5.7,5.0,Yes,I would look at independent reviews first.
+I129,Traditional ad,24,7.2,4.2,5.2,No,I would look at independent reviews first. It could be more specific.
+I195,Traditional ad,21,7.9,5.2,3.0,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I035,Traditional ad,18,2.4,5.4,5.6,No,"The promotion was clear, but I am not ready to buy."
+I095,Traditional ad,18,5.5,3.5,5.3,No,I would look at independent reviews first. I still have questions.
+I098,Influencer-sponsored,25,7.2,3.4,4.8,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I066,Influencer-sponsored,19,6.1,5.4,4.4,No,I would look at independent reviews first. It could be more specific.
+I057,Traditional ad,23,6.6,5.9,3.4,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I060,Influencer-sponsored,27,6.5,5.9,7,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I085,Traditional ad,23,3.6,5.1,5.4,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I175,Traditional ad,27,2.3,3.7,4.5,No,I would look at independent reviews first. It could be more specific.
+I052,Influencer-sponsored,19,2.7,6.2,6.7,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I044,Influencer-sponsored,27,6.2,6.9,5.6,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I190,Influencer-sponsored,25,3.1,5.0,5.8,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I016,Influencer-sponsored,21,6.7,4.8,4.6,Yes,I would look at independent reviews first. I liked the presentation.
+I216,Influencer-sponsored,18,5.8,5.2,3.2,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I082,Influencer-sponsored,19,4.6,4.9,5.4,No,"The promotion was clear, but I am not ready to buy."
+I105,Traditional ad,26,1.5,5.9,6.5,Yes,"The promotion was clear, but I am not ready to buy."
+I004,Influencer-sponsored,25,8.1,5.0,4.6,Yes,I would look at independent reviews first. I liked the presentation.
+I100,Influencer-sponsored,18,6.9,5.1,5.9,No,"The promotion was clear, but I am not ready to buy."
+I163,Traditional ad,19,2.6,1.8,4.1,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I209,Traditional ad,24,1.7,4.7,5.3,No,"The promotion was clear, but I am not ready to buy."
+I040,Influencer-sponsored,23,6.2,,7,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I200,Influencer-sponsored,27,9.0,5.8,6.0,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I187,Traditional ad,20,6.5,3.5,4.4,Yes,I would look at independent reviews first.
+I164,Influencer-sponsored,18,5.3,6.1,4.4,No,I would look at independent reviews first. I liked the presentation.
+I133,Traditional ad,20,6.7,6.0,4.3,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I089,Traditional ad,26,3.2,6.4,5.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I114,Influencer-sponsored,19,5.2,4.8,5.2,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I087,Traditional ad,27,5.1,4.5,4.8,No,I would look at independent reviews first. I liked the presentation.
+I185,Traditional ad,24,6.6,4.6,4.1,Yes,"The promotion was clear, but I am not ready to buy."
+I159,Traditional ad,27,7.3,3.5,4.0,No,I would look at independent reviews first. I liked the presentation.
+I212,Influencer-sponsored,24,8.5,3.2,3.7,Yes,I would look at independent reviews first. I liked the presentation.
+I108,Influencer-sponsored,21,6.1,4.7,4.5,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I134,Influencer-sponsored,20,6.8,5.0,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I096,Influencer-sponsored,20,6.5,4.4,6.6,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I054,Influencer-sponsored,27,3.1,6.0,6.7,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I042,Influencer-sponsored,23,4.7,4.7,3.0,Yes,I would look at independent reviews first. I liked the presentation.
+I092,Influencer-sponsored,25,6.9,,3.8,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I041,Traditional ad,26,6.1,3.3,2.5,No,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I224,Influencer-sponsored,25,7.5,6.8,5.4,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I058,Influencer-sponsored,19,2.4,5.1,5.9,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I191,Traditional ad,23,1.4,3.8,5.0,Yes,"The promotion was clear, but I am not ready to buy."
+I194, Influencer-sponsored ,26,5.6,3.5,4.0,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I045,Traditional ad,22,7.3,5.8,5.0,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I196,Influencer-sponsored,20,5.1,2.6,5.5,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I094,Influencer-sponsored,21,3.2,3.2,4.3,No,I would look at independent reviews first. I liked the presentation.
+I157,Traditional ad,27,8.1,4.4,3.5,No,I would look at independent reviews first. It could be more specific.
+I172,Influencer-sponsored,26,1.7,4.3,1.9,Yes,"The promotion was clear, but I am not ready to buy."
+I218,Influencer-sponsored,19,2.6,5.8,4.2,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I215,Traditional ad,25,4.4,3.8,4.6,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I070,Influencer-sponsored,22,4.7,4.1,4.6,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I079,Traditional ad,19,1.5,4.7,2.3,Yes,I would look at independent reviews first. It could be more specific.
+I034,Influencer-sponsored,24,7.9,4.5,5.9,Yes,I would look at independent reviews first. I liked the presentation.
+I152,Influencer-sponsored,25,2.3,6.1,5.5,No,I would look at independent reviews first. I liked the presentation.
+I056,Influencer-sponsored,27,7.1,4.6,3.9,Yes,"The promotion was clear, but I am not ready to buy."
+I077,Traditional ad,22,3.7,6.0,5.7,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I076,Influencer-sponsored,22,8.5,5.4,4.7,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I155,Traditional ad,20,3.7,5.9,5.7,Yes,I would look at independent reviews first. I still have questions.
+I021,Traditional ad,26,5.8,3.7,4.3,Yes,I would look at independent reviews first. I liked the presentation.
+I064,Influencer-sponsored,22,1.6,7,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I048,Influencer-sponsored,25,1.2,4.8,3.5,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I072,Influencer-sponsored,26,2.9,4.4,5.0,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I111,Traditional ad,18,4.8,5.0,7,No,I would look at independent reviews first. It could be more specific.
+I090,Influencer-sponsored,19,7.1,5.2,5.0,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I220,Influencer-sponsored,27,6.8,5.2,3.7,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I067,Traditional ad,20,6.8,4.9,4.5,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I038,Influencer-sponsored,22,7.9,4.8,1.8,Yes,I would look at independent reviews first.
+I219,Traditional ad,21,7.6,3.7,4.1,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I015,Traditional ad,19,7.3,5.8,4.2,Yes,"The promotion was clear, but I am not ready to buy."
+I122,Influencer-sponsored,21,3.4,3.4,3.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I173,Traditional ad,26,6.9,5.2,5.2,Yes,I would look at independent reviews first. It could be more specific.
+I118,Influencer-sponsored,19,5.1,4.5,2.6,No,I would look at independent reviews first.
+I017,Traditional ad,24,7.1,3.5,1,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I050,Influencer-sponsored,18,1.6,5.2,4.5,Yes,I would look at independent reviews first. It could be more specific.
+I143,Traditional ad,21,8.1,4.3,4.8,Yes,I would look at independent reviews first. It could be more specific.
+I147,Traditional ad,25,2.0,6.4,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I197,Traditional ad,24,1.2,4.8,4.8,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I068,Influencer-sponsored,26,4.2,5.0,6.3,No,I would look at independent reviews first. I still have questions.
+I158,Influencer-sponsored,18,1.9,5.6,4.2,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I154,Influencer-sponsored,18,7.4,6.3,6.5,No,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I102,Influencer-sponsored,27,6.6,2.6,5.6,Yes,I would look at independent reviews first. I liked the presentation.
+I198,Influencer-sponsored,22,8.8,,3.9,Yes,I would look at independent reviews first.
+I037,Traditional ad,21,6.9,4.3,5.0,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I011,Traditional ad,19,4.2,4.8,4.3,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I213,Traditional ad,27,6.4,3.3,3.8,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I120,Influencer-sponsored,27,7.3,5.3,4.5,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I025,Traditional ad,18,7.6,4.0,4.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I071,Traditional ad,23,1.9,4.6,2.7,No,I would look at independent reviews first. It could be more specific.
+I214,Influencer-sponsored,22,6.9,5.0,4.4,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I010,Influencer-sponsored,26,2.7,5.2,7,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I125,Traditional ad,24,5.8,2.9,1.9,Yes,
+I018,Influencer-sponsored,24,3.6,4.7,5.4,Yes,I would look at independent reviews first. I still have questions.
+I170,Influencer-sponsored,18,7.2,4.3,2.3,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I121,Traditional ad,19,5.4,4.4,4.5,No,I would look at independent reviews first. I still have questions.
+I229,Traditional ad,22,3.8,6.3,4.7,No,I would look at independent reviews first.
+I065,Traditional ad,21,4.1,3.9,3.5,No,I would look at independent reviews first. I liked the presentation.
+I179,Traditional ad,26,1.8,4.3,4.4,No,I would look at independent reviews first. It could be more specific.
+I084,Influencer-sponsored,22,7.9,3.9,4.3,Yes,I would look at independent reviews first. I still have questions.
+I073,Traditional ad,22,7.4,5.9,6.5,Yes,I would look at independent reviews first. I still have questions.
+I162,Influencer-sponsored,22,5.5,4.2,4.5,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I029,Traditional ad,18,6.1,4.3,6.2,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I156,Influencer-sponsored,20,2.7,5.6,5.3,No,"The promotion was clear, but I am not ready to buy."
+I188,Influencer-sponsored,25,6.4,4.3,4.9,Yes,I would look at independent reviews first. It could be more specific.
+I091,Traditional ad,27,1.2,5.1,5.3,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I053,Traditional ad,22,7.5,4.7,3.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I006,Influencer-sponsored,24,5.0,4.2,3.6,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I192,Influencer-sponsored,27,1.4,6.4,6.3,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I230,Influencer-sponsored,24,6.8,4.7,5.8,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I127,Traditional ad,24,2.4,5.4,5.2,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I202,Influencer-sponsored,27,9.0,4.2,3.2,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I113,Traditional ad,27,6.1,3.1,3.5,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I146,Influencer-sponsored,21,5.4,6.3,5.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I136,Influencer-sponsored,19,2.1,5.7,4.5,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I107,Traditional ad,20,4.7,3.9,4.6,No,
+I135,Traditional ad,18,3.5,5.3,4.2,No,"The promotion was clear, but I am not ready to buy."
+I142,Influencer-sponsored,22,8.9,4.4,3.1,Yes,"The promotion was clear, but I am not ready to buy. I still have questions."
+I080,Influencer-sponsored,27,7.6,4.8,6.2,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I099,Traditional ad,22,2.0,5.8,2.6,Yes,I would look at independent reviews first.
+I171,Traditional ad,18,1.3,4.6,4.1,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I123,Traditional ad,24,5.6,5.7,3.2,No,I would look at independent reviews first. I still have questions.
+I075,Traditional ad,25,6.7,3.3,2.9,No,I would look at independent reviews first. I liked the presentation.
+I115,Traditional ad,21,5.9,4.6,4.1,No,I would look at independent reviews first. I liked the presentation.
+I184,Influencer-sponsored,26,6.6,5.2,5.2,No,"The promotion was clear, but I am not ready to buy."
+I014,Influencer-sponsored,25,7.7,3.2,2.1,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I181,Traditional ad,21,3.6,3.3,3.6,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I124,Influencer-sponsored,27,3.3,5.2,4.5,No,"The promotion was clear, but I am not ready to buy."
+I047,Traditional ad,22,9.0,5.4,5.4,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I178,Influencer-sponsored,21,5.0,5.6,3.3,No,I would look at independent reviews first. I still have questions.
+I074,Influencer-sponsored,19,8.4,3.9,3.2,Yes,I would look at independent reviews first. I still have questions.
+I086,Influencer-sponsored,27,2.0,3.9,5.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I148,Influencer-sponsored,21,4.6,6.0,4.0,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I126,Influencer-sponsored,24,5.5,3.5,5.0,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I223,Traditional ad,27,7.5,5.3,5.1,Yes,I would look at independent reviews first. I still have questions.
+I097,Traditional ad,22,4.4,4.2,2.9,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I088,Influencer-sponsored,25,3.5,4.8,5.1,No,I would look at independent reviews first. It could be more specific.
+I183,Traditional ad,27,8.0,4.6,5.4,No,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I062,Influencer-sponsored,27,7.8,5.2,4.2,Yes,I would look at independent reviews first. I liked the presentation.
+I227,Traditional ad,23,7.9,5.5,4.8,No,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I176,Influencer-sponsored,27,2.6,6.4,5.4,No,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I144,Influencer-sponsored,18,7.2,7,6.8,No,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I005,Traditional ad,20,1.8,4.9,4.5,No,I would look at independent reviews first.
+I051,Traditional ad,21,5.7,4.7,5.3,No,I would look at independent reviews first.
+I059,Traditional ad,22,8.8,5.7,2.9,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I199,Traditional ad,22,2.3,2.5,4.2,No,I would look at independent reviews first. I liked the presentation.
+I137, Traditional ad ,21,5.2,3.9,5.3,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I031,Traditional ad,27,7.3,5.1,5.9,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship."
+I103,Traditional ad,27,5.7,5.4,5.8,Yes,I would look at independent reviews first. I still have questions.
+I182,Influencer-sponsored,25,3.7,4.4,4.1,Yes,"The promotion was clear, but I am not ready to buy. I liked the presentation."
+I083,Traditional ad,23,5.1,4.2,4.1,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I231,Traditional ad,26,6.7,4.9,5.7,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I222,Influencer-sponsored,25,3.8,4.8,2.3,Yes,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I167,Traditional ad,21,5.4,3.4,4.5,Yes,I would look at independent reviews first. I still have questions.
+I008,Influencer-sponsored,26,5.9,6.5,6.8,No,"The promotion was clear, but I am not ready to buy."
+I109,Traditional ad,26,8.6,3.5,3.3,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. It could be more specific."
+I165,Traditional ad,18,4.3,5.9,5.9,No,I would look at independent reviews first. I still have questions.
+I161,Traditional ad,20,3.9,4.1,2.6,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
+I139,Traditional ad,19,5.3,5.2,6.1,No,"The promotion was clear, but I am not ready to buy. I still have questions."
+I024,Influencer-sponsored,18,5.2,4.3,7,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I still have questions."
+I033,Traditional ad,23,7.6,6.1,4.8,No,"The promotion was clear, but I am not ready to buy. It could be more specific."
+I119,Traditional ad,21,2.0,4.5,5.6,Yes,I would look at independent reviews first. I liked the presentation.
+I132,Influencer-sponsored,27,6.5,4.9,4.8,Yes,"The endorsement seemed relatable, but I wondered about the sponsorship. I liked the presentation."
