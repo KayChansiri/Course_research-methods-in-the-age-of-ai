@@ -1,0 +1,193 @@
+participant_id,content_origin,age,social_media_hours,credibility,authenticity,would_share,open_response
+A167,Human-created,23,6.7,4.5,6.0,Yes,Some phrases sounded generic or repetitive.
+A174,AI-generated,35,2.1,5.9,4.8,Yes,I would want to know who created the post.
+A161,Human-created,27,4.9,4.3,5.4,Yes,I would want to know who created the post. I liked the presentation.
+A109,Human-created,25,0.9,3.9,3.8,No,Some phrases sounded generic or repetitive.
+A163,Human-created,24,1.1,4.7,5.5,Yes,I would want to know who created the post. It could be more specific.
+A171,Human-created,21,4.4,7,5.9,Yes,The wording felt natural to me. It could be more specific.
+A055,Human-created,25,7.6,6.7,5.5,Yes,I would want to know who created the post.
+A182,AI-generated,22,0.9,4.5,4.4,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A181,Human-created,26,3.8,4.5,4.6,Yes,I would want to know who created the post.
+A009,Human-created,22,2.8,4.6,4.7,Yes,The wording felt natural to me. I liked the presentation.
+A044,AI-generated,24,1.0,5.9,4.5,Yes,Some phrases sounded generic or repetitive.
+A145,Human-created,33,5.9,6.2,5.1,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A118,AI-generated,26,7.3,3.9,3.6,No,Some phrases sounded generic or repetitive. It could be more specific.
+A099,Human-created,35,1.9,5.2,4.4,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A111,Human-created,31,4.4,5.1,5.0,Yes,The wording felt natural to me. It could be more specific.
+A185,Human-created,19,0.6,4.9,3.1,No,I would want to know who created the post.
+A046,AI-generated,27,1.6,3.3,3.9,No,The wording felt natural to me. It could be more specific.
+A172,AI-generated,26,6.5,4.7,4.7,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A091,Human-created,26,4.8,6.0,5.2,Yes,Some phrases sounded generic or repetitive. I still have questions.
+A026, AI-generated ,30,5.1,2.4,3.5,No,Some phrases sounded generic or repetitive. I still have questions.
+A114,AI-generated,19,6.5,4.1,4.5,No,The wording felt natural to me. I liked the presentation.
+A005,Human-created,32,7.1,4.6,4.5,Yes,I would want to know who created the post.
+A082,AI-generated,27,5.8,4.6,4.1,No,Some phrases sounded generic or repetitive.
+A042,AI-generated,30,5.2,5.0,4.5,No,I would want to know who created the post. I liked the presentation.
+A036,AI-generated,32,7.2,4.6,5.2,No,The wording felt natural to me.
+A073,Human-created,22,6.9,5.3,4.7,Yes,Some phrases sounded generic or repetitive. I still have questions.
+A130,AI-generated,31,7.2,3.4,5.2,No,The wording felt natural to me. I liked the presentation.
+A104,AI-generated,27,2.7,5.3,4.7,No,
+A168,AI-generated,23,4.7,4.7,5.2,No,I would want to know who created the post. I still have questions.
+A189,Human-created,20,7.4,4.6,4.7,No,I would want to know who created the post. I still have questions.
+A155,Human-created,33,1.5,5.2,5.3,Yes,I would want to know who created the post. I liked the presentation.
+A173,Human-created,26,1.9,3.6,5.1,No,I would want to know who created the post. I still have questions.
+A191,Human-created,27,8.0,4.5,6.6,Yes,Some phrases sounded generic or repetitive. It could be more specific.
+A178,AI-generated,27,1.1,3.5,5.9,Yes,Some phrases sounded generic or repetitive. I still have questions.
+A047,Human-created,25,4.6,4.5,5.0,No,I would want to know who created the post. I still have questions.
+A158,AI-generated,25,4.1,4.1,5.0,No,The wording felt natural to me. I liked the presentation.
+A025,Human-created,35,7.1,4.2,5.0,No,The wording felt natural to me.
+A139,Human-created,35,4.4,3.6,6.3,No,I would want to know who created the post.
+A088,AI-generated,18,6.4,5.4,4.3,No,The wording felt natural to me. I still have questions.
+A127,Human-created,33,4.3,3.6,4.2,Yes,I would want to know who created the post. It could be more specific.
+A119,Human-created,30,7.5,3.9,4.9,No,The wording felt natural to me. I still have questions.
+A179,Human-created,18,4.1,6.2,5.9,No,The wording felt natural to me.
+A180,AI-generated,19,3.9,4.5,3.8,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A048,AI-generated,20,3.0,6.7,5.5,No,The wording felt natural to me. I liked the presentation.
+A176,AI-generated,19,1.8,4.1,5.2,No,The wording felt natural to me. I still have questions.
+A095,Human-created,33,7.5,6.0,5.6,No,I would want to know who created the post. I liked the presentation.
+A040,AI-generated,29,7.0,3.5,5.0,No,The wording felt natural to me. It could be more specific.
+A063,Human-created,35,2.5,4.1,5.2,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A141,Human-created,35,5.1,3.8,5.3,No,The wording felt natural to me. I still have questions.
+A012,AI-generated,27,7.0,4.6,3.2,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A151,Human-created,27,4.3,6.5,5.0,Yes,The wording felt natural to me. I liked the presentation.
+A113,Human-created,33,3.1,5.6,5.5,No,Some phrases sounded generic or repetitive. I still have questions.
+A086,AI-generated,24,7.3,3.7,4.0,Yes,I would want to know who created the post.
+A122,AI-generated,34,0.8,3.5,5.1,Yes,The wording felt natural to me. It could be more specific.
+A077,Human-created,30,0.6,6.0,4.5,Yes,Some phrases sounded generic or repetitive. I liked the presentation.
+A187,Human-created,18,1.2,5.6,6.3,No,The wording felt natural to me. I still have questions.
+A011,Human-created,22,3.6,3.8,5.4,No,The wording felt natural to me. I still have questions.
+A008,AI-generated,20,4.8,6.1,4.5,No,I would want to know who created the post. I still have questions.
+A079,Human-created,21,5.6,5.6,5.6,No,I would want to know who created the post. I liked the presentation.
+A102,AI-generated,34,7.8,3.0,4.7,No,I would want to know who created the post. I liked the presentation.
+A146,AI-generated,29,5.2,4.7,3.0,No,Some phrases sounded generic or repetitive.
+A126,AI-generated,31,5.7,4.3,2.8,No,The wording felt natural to me. I liked the presentation.
+A075,Human-created,30,2.8,5.4,6.4,No,I would want to know who created the post. I still have questions.
+A186,AI-generated,29,5.6,3.1,2.6,Yes,The wording felt natural to me. I liked the presentation.
+A154,AI-generated,22,1.9,5.2,2.8,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A115,Human-created,21,7.7,5.6,5.4,Yes,I would want to know who created the post. It could be more specific.
+A143,Human-created,26,2.6,4.9,7,No,Some phrases sounded generic or repetitive.
+A034,AI-generated,26,3.1,2.4,5.3,No,The wording felt natural to me. I liked the presentation.
+A136,AI-generated,30,2.1,6.0,2.2,No,The wording felt natural to me. It could be more specific.
+A160,AI-generated,30,1.3,4.9,3.5,No,Some phrases sounded generic or repetitive.
+A134,AI-generated,34,5.0,3.1,5.6,No,I would want to know who created the post. It could be more specific.
+A094,AI-generated,20,6.5,3.8,3.5,No,The wording felt natural to me. It could be more specific.
+A049,Human-created,20,3.9,4.2,3.9,Yes,The wording felt natural to me.
+A004,AI-generated,18,7.3,4.5,3.3,Yes,I would want to know who created the post. I still have questions.
+A183,Human-created,29,5.2,3.9,3.8,Yes,The wording felt natural to me. I still have questions.
+A002,AI-generated,26,7.2,4.6,4.6,Yes,Some phrases sounded generic or repetitive. I liked the presentation.
+A150,AI-generated,30,4.4,5.9,5.1,No,The wording felt natural to me.
+A142,AI-generated,22,3.6,5.6,5.2,Yes,Some phrases sounded generic or repetitive. It could be more specific.
+A085,Human-created,29,1.5,5.6,4.5,No,The wording felt natural to me. I liked the presentation.
+A065,Human-created,31,4.1,6.0,4.4,Yes,The wording felt natural to me. It could be more specific.
+A032,AI-generated,28,0.8,5.7,3.2,No,The wording felt natural to me. I still have questions.
+A175,Human-created,20,4.6,6.3,5.6,Yes,The wording felt natural to me. I still have questions.
+A029,Human-created,19,5.9,6.1,4.3,Yes,Some phrases sounded generic or repetitive.
+A087,Human-created,25,1.7,,5.6,No,I would want to know who created the post.
+A007,Human-created,29,4.4,3.4,6.4,Yes,The wording felt natural to me. It could be more specific.
+A070,AI-generated,28,2.4,4.1,5.2,No,I would want to know who created the post. It could be more specific.
+A066,AI-generated,26,4.1,5.8,3.8,No,Some phrases sounded generic or repetitive. I still have questions.
+A081,Human-created,27,7.2,5.1,4.1,Yes,The wording felt natural to me. I still have questions.
+A023,Human-created,26,4.9,4.4,6.6,No,I would want to know who created the post. I still have questions.
+A035,Human-created,34,5.6,3.8,6.7,Yes,I would want to know who created the post.
+A170,AI-generated,22,4.0,3.7,4.9,Yes,The wording felt natural to me. It could be more specific.
+A074,AI-generated,30,5.3,5.2,3.6,Yes,I would want to know who created the post. I still have questions.
+A001,Human-created,21,6.6,6.0,3.4,Yes,I would want to know who created the post. I liked the presentation.
+A152,AI-generated,26,5.8,5.1,4.4,Yes,Some phrases sounded generic or repetitive.
+A184,AI-generated,18,3.0,5.1,5.3,Yes,The wording felt natural to me.
+A037,Human-created,30,4.8,5.5,4.4,No,Some phrases sounded generic or repetitive. It could be more specific.
+A039,Human-created,30,2.6,4.6,5.6,No,I would want to know who created the post. It could be more specific.
+A020,AI-generated,26,7.2,3.1,4.5,No,The wording felt natural to me. I still have questions.
+A058,AI-generated,19,0.5,5.1,4.5,No,I would want to know who created the post. I liked the presentation.
+A028,AI-generated,26,6.4,5.0,4.8,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A131,Human-created,20,5.7,5.5,5.7,Yes,The wording felt natural to me. I still have questions.
+A177,Human-created,29,2.2,5.0,5.4,Yes,The wording felt natural to me.
+A116,AI-generated,33,2.2,3.0,4.4,No,The wording felt natural to me.
+A165,Human-created,31,4.2,6.0,6.2,Yes,Some phrases sounded generic or repetitive. I liked the presentation.
+A117,Human-created,32,7.7,4.6,4.7,No,I would want to know who created the post. It could be more specific.
+A144, AI-generated ,31,7.2,4.9,5.7,Yes,The wording felt natural to me. I liked the presentation.
+A024,AI-generated,23,7.1,5.5,2.8,No,I would want to know who created the post.
+A019,Human-created,22,5.1,4.0,5.4,Yes,
+A052,AI-generated,24,3.1,4.6,4.7,No,Some phrases sounded generic or repetitive. It could be more specific.
+A153,Human-created,22,5.7,4.8,6.1,No,The wording felt natural to me. I liked the presentation.
+A147,Human-created,20,7.2,6.6,6.4,No,I would want to know who created the post. I liked the presentation.
+A101,Human-created,23,0.8,3.1,4.1,Yes,I would want to know who created the post. I still have questions.
+A072,AI-generated,30,5.4,4.7,4.0,No,Some phrases sounded generic or repetitive.
+A041,Human-created,32,5.3,5.6,4.5,Yes,The wording felt natural to me.
+A135,Human-created,22,2.5,6.5,6.7,Yes,I would want to know who created the post. It could be more specific.
+A107,Human-created,23,1.7,5.0,7,No,The wording felt natural to me. I liked the presentation.
+A110,AI-generated,29,2.8,4.4,4.5,Yes,The wording felt natural to me.
+A129,Human-created,25,6.3,4.4,5.9,No,I would want to know who created the post. It could be more specific.
+A188,AI-generated,23,7.8,3.9,3.1,Yes,Some phrases sounded generic or repetitive. I liked the presentation.
+A123,Human-created,21,5.8,3.7,4.8,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A192,AI-generated,19,3.7,5.5,5.3,No,Some phrases sounded generic or repetitive. It could be more specific.
+A016,AI-generated,26,6.5,4.8,4.0,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A133,Human-created,22,6.2,5.8,4.3,No,Some phrases sounded generic or repetitive.
+A057,Human-created,19,1.1,4.1,5.6,No,I would want to know who created the post. I still have questions.
+A061,Human-created,20,1.6,4.9,4.2,Yes,The wording felt natural to me. I liked the presentation.
+A071,Human-created,28,6.1,5.7,5.5,No,I would want to know who created the post.
+A105,Human-created,26,7.4,5.4,5.1,No,I would want to know who created the post. I liked the presentation.
+A067,Human-created,31,0.9,4.8,7,Yes,I would want to know who created the post. I still have questions.
+A098,AI-generated,26,2.2,2.7,2.7,No,I would want to know who created the post.
+A162,AI-generated,24,5.8,4.3,3.3,No,I would want to know who created the post.
+A022,AI-generated,29,6.0,1.4,2.6,No,Some phrases sounded generic or repetitive. It could be more specific.
+A017,Human-created,28,6.3,3.8,6.7,No,Some phrases sounded generic or repetitive.
+A128,AI-generated,18,7.8,5.0,3.6,Yes,The wording felt natural to me. I liked the presentation.
+A097,Human-created,30,4.3,4.1,6.0,Yes,I would want to know who created the post.
+A027,Human-created,35,1.7,7.0,6.7,Yes,I would want to know who created the post. I liked the presentation.
+A169,Human-created,26,3.5,4.8,3.1,Yes,I would want to know who created the post. I liked the presentation.
+A054,AI-generated,19,4.5,4.2,2.6,No,Some phrases sounded generic or repetitive. I liked the presentation.
+A156,AI-generated,19,1.0,4.3,5.0,Yes,I would want to know who created the post. It could be more specific.
+A010,AI-generated,22,5.2,3.8,4.6,No,I would want to know who created the post. It could be more specific.
+A076,AI-generated,27,5.3,4.0,5.4,No,The wording felt natural to me. I liked the presentation.
+A030,AI-generated,31,6.8,3.7,5.0,Yes,The wording felt natural to me. I still have questions.
+A138,AI-generated,21,3.3,3.0,5.4,No,The wording felt natural to me. I still have questions.
+A053,Human-created,22,1.1,,4.2,Yes,I would want to know who created the post.
+A083,Human-created,25,1.3,3.9,7,No,The wording felt natural to me. It could be more specific.
+A021,Human-created,30,1.4,5.1,4.1,No,Some phrases sounded generic or repetitive. It could be more specific.
+A103,Human-created,24,3.4,5.6,4.8,No,I would want to know who created the post. It could be more specific.
+A159,Human-created,27,5.2,,3.6,No,The wording felt natural to me. I still have questions.
+A140,AI-generated,33,1.1,3.3,3.7,No,Some phrases sounded generic or repetitive. I still have questions.
+A060,AI-generated,24,3.8,3.7,3.8,No,Some phrases sounded generic or repetitive.
+A080,AI-generated,27,2.5,3.5,5.1,Yes,I would want to know who created the post.
+A031,Human-created,24,2.8,3.7,4.4,Yes,Some phrases sounded generic or repetitive. It could be more specific.
+A092,AI-generated,32,5.8,4.1,4.7,No,The wording felt natural to me. It could be more specific.
+A124,AI-generated,34,5.6,3.7,4.9,No,The wording felt natural to me.
+A078,AI-generated,25,1.1,4.9,3.2,Yes,I would want to know who created the post. I liked the presentation.
+A164,AI-generated,27,1.8,5.1,5.4,Yes,I would want to know who created the post. I still have questions.
+A121,Human-created,34,1.5,5.7,4.7,Yes,I would want to know who created the post. I still have questions.
+A112,AI-generated,23,2.9,3.5,3.2,No,Some phrases sounded generic or repetitive. It could be more specific.
+A018,AI-generated,30,0.5,5.4,5.3,Yes,I would want to know who created the post.
+A064,AI-generated,31,2.0,4.1,5.6,Yes,Some phrases sounded generic or repetitive.
+A062,AI-generated,35,2.8,5.6,2.6,No,I would want to know who created the post. It could be more specific.
+A051,Human-created,34,6.2,4.1,4.9,Yes,The wording felt natural to me.
+A045,Human-created,26,4.0,4.6,6.0,No,Some phrases sounded generic or repetitive.
+A190,AI-generated,21,5.4,4.3,5.8,Yes,Some phrases sounded generic or repetitive. I liked the presentation.
+A043,Human-created,31,1.7,5.4,4.0,No,I would want to know who created the post. I liked the presentation.
+A038,AI-generated,20,1.5,3.8,3.1,Yes,The wording felt natural to me. It could be more specific.
+A068,AI-generated,19,0.8,4.7,4.0,Yes,The wording felt natural to me. I liked the presentation.
+A166,AI-generated,31,6.6,1.7,2.5,No,I would want to know who created the post.
+A006,AI-generated,23,2.7,5.0,5.0,No,The wording felt natural to me.
+A132,AI-generated,34,3.4,4.7,4.6,No,I would want to know who created the post. I still have questions.
+A033,Human-created,20,4.5,5.9,5.3,Yes,The wording felt natural to me. I liked the presentation.
+A013,Human-created,33,7.6,3.2,4.3,Yes,Some phrases sounded generic or repetitive.
+A149,Human-created,23,3.5,3.5,5.4,Yes,I would want to know who created the post. I still have questions.
+A050,AI-generated,22,7.8,5.0,4.4,Yes,I would want to know who created the post.
+A157,Human-created,18,4.0,3.9,4.2,Yes,I would want to know who created the post. I still have questions.
+A137,Human-created,23,6.1,5.3,4.9,No,The wording felt natural to me. I still have questions.
+A120,AI-generated,29,5.0,5.7,3.4,No,I would want to know who created the post. I still have questions.
+A106,AI-generated,21,1.7,4.0,4.9,Yes,Some phrases sounded generic or repetitive. It could be more specific.
+A096,AI-generated,30,1.0,2.5,4.3,No,Some phrases sounded generic or repetitive. It could be more specific.
+A125,Human-created,28,5.9,5.3,5.3,No,Some phrases sounded generic or repetitive. It could be more specific.
+A056,AI-generated,32,2.2,4.3,4.0,Yes,Some phrases sounded generic or repetitive.
+A093,Human-created,22,3.9,5.4,4.4,Yes,The wording felt natural to me.
+A148,AI-generated,26,6.7,4.5,3.8,No,The wording felt natural to me.
+A015,Human-created,21,5.9,6.1,4.0,Yes,The wording felt natural to me.
+A059,Human-created,29,3.6,3.6,5.8,Yes,The wording felt natural to me. It could be more specific.
+A003,Human-created,29,6.2,3.4,4.1,Yes,The wording felt natural to me. I still have questions.
+A084,AI-generated,24,6.0,4.2,4.1,No,Some phrases sounded generic or repetitive. It could be more specific.
+A108,AI-generated,21,4.1,5.5,4.5,Yes,I would want to know who created the post. I liked the presentation.
+A100,AI-generated,20,4.6,5.5,3.0,No,I would want to know who created the post. I liked the presentation.
+A089,Human-created,22,4.2,5.4,4.1,No,I would want to know who created the post.
+A090,AI-generated,19,6.2,4.5,5.5,No,The wording felt natural to me. I liked the presentation.
+A069,Human-created,24,3.4,7,3.7,Yes,I would want to know who created the post. I liked the presentation.
+A014,AI-generated,34,3.2,4.8,5.0,Yes,I would want to know who created the post. I liked the presentation.
